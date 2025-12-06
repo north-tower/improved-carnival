@@ -1,0 +1,1185 @@
+Receipt No.,Completion Time,Details,Paid In,Withdrawn,Balance,month_name,day_name,Hour,Transaction_Type
+TJIQI7QX9T,2025-10-18 20:26:59,Merchant Payment Fuliza M-Pesa Online to 7647542 - ALEX MUSAU,0.0,500.0,0.0,October,Saturday,20,Till No
+TJIQI7QX9T,2025-10-18 20:26:59,OverDraft of Credit Party,500.0,0.0,500.0,October,Saturday,20,Fuliza Loan
+TJIQI7QSUQ,2025-10-18 20:26:27,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHL7H8TDN7P7OP.,500.0,0.0,500.0,October,Saturday,20,Bank Transfer
+TJIQI7QSUR,2025-10-18 20:26:27,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,500.0,0.0,October,Saturday,20,Fuliza Loan Repayment
+TJIQI7QKSS,2025-10-18 19:08:16,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes00438573,0.0,500.0,0.0,October,Saturday,19,Pay Bill
+TJIQI7QKSS,2025-10-18 19:08:16,OverDraft of Credit Party,500.0,0.0,500.0,October,Saturday,19,Fuliza Loan
+TJIQI7QIDC,2025-10-18 18:33:32,Customer Transfer Fuliza MPesa to - 07******343 COLLINS MELLY,0.0,1000.0,0.0,October,Saturday,18,Send Money
+TJIQI7QIDC,2025-10-18 18:33:32,OverDraft of Credit Party,1013.0,0.0,1013.0,October,Saturday,18,Fuliza Loan
+TJIQI7PBQ2,2025-10-18 13:01:37,Pay Bill Online Fuliza M-Pesa to 510800 - iPay Ltd Acc. g2289174,0.0,1354.0,0.0,October,Saturday,13,Pay Bill
+TJIQI7PBQ2,2025-10-18 13:01:37,OverDraft of Credit Party,1307.78,0.0,1369.0,October,Saturday,13,Fuliza Loan
+TJIQI7OWWH,2025-10-18 10:18:40,Customer Transfer to - 2547******007 SARAH SEIF,0.0,215.0,68.22,October,Saturday,10,Send Money
+TJIQI7OYB1,2025-10-18 10:08:19,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,245.0,283.22,October,Saturday,10,Till No
+TJIQI7OIK2,2025-10-18 07:31:41,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,72.0,528.22,October,Saturday,7,safaricom bundles
+TJHQI7O9PG,2025-10-17 23:55:52,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2724.78,600.22,October,Friday,23,Fuliza Loan Repayment
+TJHQI7O9PF,2025-10-17 23:55:51,Business Payment from 3030523 - 1XBET-B2C via API. Original conversation ID is 4272-48c6- 9b0c-389dcef2624f1312842.,3325.0,0.0,3325.0,October,Friday,23,Bank Transfer
+TJHQI7NWND,2025-10-17 20:17:25,Pay Bill Fuliza M-Pesa to 510800 - iPay Ltd Acc. G2288541,0.0,310.0,5.0,October,Friday,20,Fuliza Loan
+TJHQI7NWND,2025-10-17 20:17:25,OverDraft of Credit Party,315.0,0.0,315.0,October,Friday,20,Fuliza Loan
+TJHQI7N24B,2025-10-17 17:03:12,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes90641636,0.0,1000.0,0.0,October,Friday,17,Pay Bill
+TJHQI7N24B,2025-10-17 17:03:12,OverDraft of Credit Party,1000.0,0.0,1000.0,October,Friday,17,Fuliza Loan
+TJHQI7M5K6,2025-10-17 11:31:27,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1556.0,0.0,October,Friday,11,Fuliza Loan Repayment
+TJHQI7M5K5,2025-10-17 11:31:26,Business Payment from 979992 - ZENKA DIGITAL LIMITED B2C via API. Original conversation ID is 0fcb-415c-a479- 26ca25cab974805982.,1000.0,0.0,1556.0,October,Friday,11,Bank Transfer
+TJHQI7M2EK,2025-10-17 11:26:03,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,10.0,556.0,October,Friday,11,Till No
+TJHQI7M3YF,2025-10-17 11:25:29,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,355.0,566.0,October,Friday,11,Till No
+TJHQI7M5GW,2025-10-17 11:24:54,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRWSR9NEWMOJ.,800.0,0.0,921.0,October,Friday,11,Bank Transfer
+TJHQI7M5G1,2025-10-17 11:22:55,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRWSR7JTQJOB.,100.0,0.0,121.0,October,Friday,11,Bank Transfer
+TJGQI7KALG,2025-10-16 19:16:54,Merchant Payment Online to 7326775 - DAD Mountain View,0.0,1400.0,21.0,October,Thursday,19,Till No
+TJGQI7K5HU,2025-10-16 19:12:59,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRWIM54JS2OY.,1300.0,0.0,1421.0,October,Thursday,19,Bank Transfer
+TJGQI7J4IT,2025-10-16 14:43:00,Customer Payment to Small Business to - 07******393 Kevin Ooko,0.0,400.0,128.0,October,Thursday,14,Pochi
+TJG6H7GKXN,2025-10-16 14:39:05,Funds received from - 07******571 MESHACK KEBENEI,200.0,0.0,528.0,October,Thursday,14,Received Money
+TJGKT7KE3C,2025-10-16 14:36:58,Funds received from - 07******837 lewis murgor,80.0,0.0,328.0,October,Thursday,14,Received Money
+TJGQI7J55Y,2025-10-16 13:37:35,Customer Transfer to - 2547******024 Sylvia Ngotho,0.0,1000.0,261.0,October,Thursday,13,Send Money
+TJGQI7J52P,2025-10-16 13:31:36,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is a2da-47ba-bb1a- 8181a9f04ecb56969.,950.0,0.0,1261.0,October,Thursday,13,Bank Transfer
+TJGQI7IV99,2025-10-16 12:55:32,Customer Transfer to - 2547******059 ZADOCK ASEMBO,0.0,250.0,318.0,October,Thursday,12,Send Money
+TJGQI7IUKR,2025-10-16 12:08:30,Customer Transfer to - 2547******081 SHAMPTON KAMUNYA,0.0,260.0,575.0,October,Thursday,12,Send Money
+TJGQI7ISZF,2025-10-16 11:54:24,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,835.0,October,Thursday,11,safaricom bundles
+TJGQI7IR34,2025-10-16 11:27:03,Savings Contribution,0.0,45.0,855.0,October,Thursday,11,Other
+TJGQI7IR34,2025-10-16 11:27:03,Term Loan Disbursement for H- Fund,900.0,0.0,900.0,October,Thursday,11,Other
+TJFQI7HBOB,2025-10-15 20:24:10,Customer Transfer Fuliza MPesa to - 2547******164 NOAH TUWEI,0.0,100.0,0.0,October,Wednesday,20,Send Money
+TJFQI7HBOB,2025-10-15 20:24:10,OverDraft of Credit Party,100.0,0.0,100.0,October,Wednesday,20,Fuliza Loan
+TJFQI7GJ4B,2025-10-15 16:03:29,Merchant Payment Fuliza M-Pesa Online to 5017003 - RUBBER STAMPS BONYS STAMP,0.0,250.0,0.0,October,Wednesday,16,Till No
+TJFQI7GJ4B,2025-10-15 16:03:29,OverDraft of Credit Party,250.0,0.0,250.0,October,Wednesday,16,Fuliza Loan
+TJFQI7F9PA,2025-10-15 09:31:28,Customer Transfer Fuliza MPesa to - 2547******943 RICHARD MAINA,0.0,100.0,0.0,October,Wednesday,9,Send Money
+TJFQI7F9PA,2025-10-15 09:31:28,OverDraft of Credit Party,100.0,0.0,100.0,October,Wednesday,9,Fuliza Loan
+TJFQI7F83F,2025-10-15 09:27:11,Merchant Payment Fuliza M-Pesa Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,920.0,0.0,October,Wednesday,9,Till No
+TJFQI7F83F,2025-10-15 09:27:11,OverDraft of Credit Party,920.0,0.0,920.0,October,Wednesday,9,Fuliza Loan
+TJEQI7C7LA,2025-10-14 09:20:51,Customer Transfer Fuliza MPesa to - 2547******679 Sadik Juma,0.0,50.0,0.0,October,Tuesday,9,Send Money
+TJEQI7C7LA,2025-10-14 09:20:51,OverDraft of Credit Party,50.0,0.0,50.0,October,Tuesday,9,Fuliza Loan
+TJEQI7CC0M,2025-10-14 09:02:57,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******276 Samuel Maina,0.0,50.0,0.0,October,Tuesday,9,Pochi
+TJEQI7CC0M,2025-10-14 09:02:57,OverDraft of Credit Party,50.0,0.0,50.0,October,Tuesday,9,Fuliza Loan
+TJEQI7C8HT,2025-10-14 08:29:44,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******972 ERICK MBWEKE,0.0,70.0,0.0,October,Tuesday,8,Pochi
+TJEQI7C8HT,2025-10-14 08:29:44,OverDraft of Credit Party,70.0,0.0,70.0,October,Tuesday,8,Fuliza Loan
+TJEQI7C3RT,2025-10-14 08:20:28,Customer Transfer Fuliza MPesa to - 2547******520 JOSEPH WANJIRU,0.0,50.0,0.0,October,Tuesday,8,Send Money
+TJEQI7C3RT,2025-10-14 08:20:28,OverDraft of Credit Party,50.0,0.0,50.0,October,Tuesday,8,Fuliza Loan
+TJEQI7BS1J,2025-10-14 06:51:27,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Tuesday,6,Fuliza Airtime
+TJEQI7BS1J,2025-10-14 06:51:27,OverDraft of Credit Party,20.0,0.0,20.0,October,Tuesday,6,Fuliza Loan
+TJDQI7AGPE,2025-10-13 18:21:54,Pay Bill Fuliza M-Pesa to 247247 - Equity Paybill Account Acc. 418652,0.0,1400.0,15.0,October,Monday,18,Fuliza Loan
+TJDQI7AGPE,2025-10-13 18:21:54,OverDraft of Credit Party,1249.23,0.0,1415.0,October,Monday,18,Fuliza Loan
+TJDQI78QNA,2025-10-13 07:52:09,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,165.77,October,Monday,7,safaricom bundles
+TJCQI777VG,2025-10-12 16:22:55,Customer Transfer to - 2547******410 ANTHONY THOMAS,0.0,150.0,214.77,October,Sunday,16,Send Money
+TJCQI76W4C,2025-10-12 14:58:16,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,62.0,364.77,October,Sunday,14,safaricom bundles
+TJCQI76VO2,2025-10-12 14:29:25,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,2000.0,426.77,October,Sunday,14,Pay Bill
+TJCQI76U7L,2025-10-12 14:25:49,Pay Bill Online to 522522 - KCB Paybill AC Acc. 1282706071,0.0,25000.0,2426.77,October,Sunday,14,Pay Bill
+TJCQI76N61,2025-10-12 13:54:59,Merchant Payment Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,400.0,27493.77,October,Sunday,13,Till No
+TJCQI76H8I,2025-10-12 13:34:31,Merchant Payment Online to 3552949 - THE MELLON MARKET,0.0,100.0,27893.77,October,Sunday,13,Till No
+TJCQI76EB3,2025-10-12 13:31:45,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2006.23,27993.77,October,Sunday,13,Fuliza Loan Repayment
+TJCQI76EB2,2025-10-12 13:31:44,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CJC8DAQ4I2.,30000.0,0.0,30000.0,October,Sunday,13,Bank Transfer
+TJCQI76FKK,2025-10-12 13:20:30,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,900.0,0.0,October,Sunday,13,Fuliza Loan Repayment
+TJCQI76FKJ,2025-10-12 13:20:29,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 6ab8-470b-b2d2- 4cfdb4cb0293973362.,900.0,0.0,900.0,October,Sunday,13,Bank Transfer
+TJCQI76DUN,2025-10-12 13:00:17,Customer Transfer Fuliza MPesa to - 07******023 Kelvin Kimani,0.0,70.0,0.0,October,Sunday,13,Send Money
+TJCQI76DUN,2025-10-12 13:00:17,OverDraft of Credit Party,70.0,0.0,70.0,October,Sunday,13,Fuliza Loan
+TJCQI75GC2,2025-10-12 00:10:16,Customer Transfer Fuliza MPesa to - 07******763 antony wanyoro,0.0,310.0,7.0,October,Sunday,0,Send Money
+TJCQI75GC2,2025-10-12 00:10:16,OverDraft of Credit Party,317.0,0.0,317.0,October,Sunday,0,Fuliza Loan
+TJCQI75LF3,2025-10-12 00:08:56,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,100.0,0.0,October,Sunday,0,Fuliza Loan Repayment
+TJCQI75LF2,2025-10-12 00:08:55,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRQCELZ346ON.,100.0,0.0,100.0,October,Sunday,0,Bank Transfer
+TJCQI75GWS,2025-10-12 00:07:28,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,40.0,0.0,October,Sunday,0,Fuliza Loan Repayment
+TJCQI75GWR,2025-10-12 00:07:27,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is d71b-4432-8d96- 7233255e3fc5527536.,40.0,0.0,40.0,October,Sunday,0,Bank Transfer
+TJBQI75DV3,2025-10-11 21:37:36,Customer Transfer Fuliza MPesa to - 2547******403 AGNESS MANGA,0.0,800.0,13.0,October,Saturday,21,Send Money
+TJBQI75DV3,2025-10-11 21:37:36,OverDraft of Credit Party,813.0,0.0,813.0,October,Saturday,21,Fuliza Loan
+TJBQI7592Z,2025-10-11 21:18:34,Customer Transfer Fuliza MPesa to - 2547******708 FELIX AUDI,0.0,250.0,7.0,October,Saturday,21,Send Money
+TJBQI7592Z,2025-10-11 21:18:34,OverDraft of Credit Party,257.0,0.0,257.0,October,Saturday,21,Fuliza Loan
+TJBQI74YVQ,2025-10-11 20:25:36,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,0.0,October,Saturday,20,Fuliza Airtime
+TJBQI74YVQ,2025-10-11 20:25:36,OverDraft of Credit Party,40.0,0.0,40.0,October,Saturday,20,Fuliza Loan
+TJBQI74V1B,2025-10-11 19:49:57,Pay Bill Online Fuliza M-Pesa to 551698 - NOSTALGIC FOODS LIMITED Acc. 108632,0.0,2100.0,20.0,October,Saturday,19,Pay Bill
+TJBQI74V1B,2025-10-11 19:49:57,OverDraft of Credit Party,1519.06,0.0,2120.0,October,Saturday,19,Fuliza Loan
+TJBQI7443S,2025-10-11 17:15:15,Customer Transfer to - 07******565 felix okuku,0.0,150.0,607.94,October,Saturday,17,Send Money
+TJBQI745GG,2025-10-11 17:04:30,Customer Transfer to - 07******565 felix okuku,0.0,280.0,764.94,October,Saturday,17,Send Money
+TJBQI746Q2,2025-10-11 16:52:21,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2955.06,1044.94,October,Saturday,16,Fuliza Loan Repayment
+TJBQI746Q1,2025-10-11 16:52:21,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRQ53HW86BOI.,4000.0,0.0,4000.0,October,Saturday,16,Bank Transfer
+TJBQI73QHN,2025-10-11 15:50:49,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,95.0,0.0,October,Saturday,15,Send Money
+TJBQI73QHN,2025-10-11 15:50:49,OverDraft of Credit Party,95.0,0.0,95.0,October,Saturday,15,Fuliza Loan
+TJBQI73OYW,2025-10-11 15:49:09,Customer Transfer Fuliza MPesa to - 2547******681 KEVIN NG'ONG'I,0.0,530.0,13.0,October,Saturday,15,Send Money
+TJBQI73OYW,2025-10-11 15:49:09,OverDraft of Credit Party,543.0,0.0,543.0,October,Saturday,15,Fuliza Loan
+TJBQI7381W,2025-10-11 12:45:57,Pay Bill Online Fuliza M-Pesa to 222222 - E-CITIZEN Acc. KDRVNDMK,0.0,174.0,0.0,October,Saturday,12,Pay Bill
+TJBQI7381W,2025-10-11 12:45:57,OverDraft of Credit Party,179.0,0.0,179.0,October,Saturday,12,Fuliza Loan
+TJBQI7353Q,2025-10-11 12:44:02,Customer Transfer Fuliza MPesa to - 2547******499 SAMUEL NYAMWATHI,0.0,520.0,13.0,October,Saturday,12,Send Money
+TJBQI7353Q,2025-10-11 12:44:02,OverDraft of Credit Party,533.0,0.0,533.0,October,Saturday,12,Fuliza Loan
+TJBQI7339Q,2025-10-11 12:18:56,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Saturday,12,Fuliza Airtime
+TJBQI7339Q,2025-10-11 12:18:56,OverDraft of Credit Party,20.0,0.0,20.0,October,Saturday,12,Fuliza Loan
+TJAQI71RYJ,2025-10-10 19:44:35,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,15.0,0.0,October,Friday,19,Send Money
+TJAQI71RYJ,2025-10-10 19:44:35,OverDraft of Credit Party,15.0,0.0,15.0,October,Friday,19,Fuliza Loan
+TJAQI71OXQ,2025-10-10 19:43:49,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,200.0,7.0,October,Friday,19,Send Money
+TJAQI71OXQ,2025-10-10 19:43:49,OverDraft of Credit Party,207.0,0.0,207.0,October,Friday,19,Fuliza Loan
+TJAQI71IKV,2025-10-10 18:40:57,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,0.0,October,Friday,18,Fuliza Airtime
+TJAQI71IKV,2025-10-10 18:40:57,OverDraft of Credit Party,40.0,0.0,40.0,October,Friday,18,Fuliza Loan
+TJAQI715LG,2025-10-10 18:09:06,Customer Transfer Fuliza MPesa to - 07******837 lewis murgor,0.0,77.0,0.0,October,Friday,18,Send Money
+TJAQI715LG,2025-10-10 18:09:06,OverDraft of Credit Party,77.0,0.0,77.0,October,Friday,18,Fuliza Loan
+TJAQI70VEP,2025-10-10 16:05:13,Customer Transfer Fuliza MPesa to - 2547******373 Millicent Cheptoi,0.0,530.0,0.0,October,Friday,16,Send Money
+TJAQI70VEP,2025-10-10 16:05:13,OverDraft of Credit Party,543.0,0.0,543.0,October,Friday,16,Fuliza Loan
+TJAQI6Z3P2,2025-10-10 03:04:13,Customer Transfer Fuliza MPesa to - 2547******652 ERASTUS KITAVI,0.0,300.0,7.0,October,Friday,3,Send Money
+TJAQI6Z3P2,2025-10-10 03:04:13,OverDraft of Credit Party,307.0,0.0,307.0,October,Friday,3,Fuliza Loan
+TJ9QI6Z3B6,2025-10-09 23:38:57,Merchant Payment Fuliza M-Pesa Online to 985916 - TOP LIFE 25,0.0,350.0,0.0,October,Thursday,23,Till No
+TJ9QI6Z3B6,2025-10-09 23:38:57,OverDraft of Credit Party,350.0,0.0,350.0,October,Thursday,23,Fuliza Loan
+TJ9QI6YVOX,2025-10-09 22:53:11,Customer Transfer Fuliza MPesa to - 07******800 Victor Aiyabei,0.0,1000.0,0.0,October,Thursday,22,Send Money
+TJ9QI6YVOX,2025-10-09 22:53:11,OverDraft of Credit Party,16.8,0.0,1013.0,October,Thursday,22,Fuliza Loan
+TJ9QI6YKPQ,2025-10-09 20:44:44,Merchant Payment to 592638 - Java Westlands Square,0.0,300.0,996.2,October,Thursday,20,Till No
+TJ9QI6YKO9,2025-10-09 20:43:09,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2703.8,1296.2,October,Thursday,20,Fuliza Loan Repayment
+TJ9QI6YKO8,2025-10-09 20:43:08,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRVQ6VQTJMOV.,4000.0,0.0,4000.0,October,Thursday,20,Bank Transfer
+TJ9QI6YK8O,2025-10-09 20:22:00,Merchant Payment Fuliza M-Pesa Online to 787931 - Tamu Tamu Hotel Wood Valley Groove Westlands,0.0,500.0,0.0,October,Thursday,20,Till No
+TJ9QI6YK8O,2025-10-09 20:22:00,OverDraft of Credit Party,500.0,0.0,500.0,October,Thursday,20,Fuliza Loan
+TJ9QI6YF96,2025-10-09 20:20:23,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Thursday,20,Fuliza Airtime
+TJ9QI6YF96,2025-10-09 20:20:23,OverDraft of Credit Party,20.0,0.0,20.0,October,Thursday,20,Fuliza Loan
+TJ9QI6YIVX,2025-10-09 19:42:40,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******469 JOHN KURIA,0.0,80.0,0.0,October,Thursday,19,Pochi
+TJ9QI6YIVX,2025-10-09 19:42:40,OverDraft of Credit Party,80.0,0.0,80.0,October,Thursday,19,Fuliza Loan
+TJ9QI6XWWR,2025-10-09 18:30:00,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Thursday,18,Fuliza Airtime
+TJ9QI6XWWR,2025-10-09 18:30:00,OverDraft of Credit Party,20.0,0.0,20.0,October,Thursday,18,Fuliza Loan
+TJ9QI6XLMS,2025-10-09 16:54:00,Customer Bundle Purchase with Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,10.0,0.0,October,Thursday,16,safaricom bundles
+TJ9QI6XLMS,2025-10-09 16:54:00,OverDraft of Credit Party,10.0,0.0,10.0,October,Thursday,16,Fuliza Loan
+TJ9QI6WSF3,2025-10-09 13:17:28,Customer Transfer Fuliza MPesa to - 07******152 VICTOR KIPKORIR,0.0,1195.0,0.0,October,Thursday,13,Send Money
+TJ9QI6WSF3,2025-10-09 13:17:28,OverDraft of Credit Party,1218.0,0.0,1218.0,October,Thursday,13,Fuliza Loan
+TJ9QI6WQGH,2025-10-09 11:23:55,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2000.0,0.0,October,Thursday,11,Fuliza Loan Repayment
+TJ9KT6Y3GO,2025-10-09 11:23:54,Funds received from - 07******837 lewis murgor,2000.0,0.0,2000.0,October,Thursday,11,Received Money
+TJ8QI6VQTM,2025-10-08 22:28:02,Customer Transfer Fuliza MPesa to - 07******837 lewis murgor,0.0,1510.0,33.0,October,Wednesday,22,Send Money
+TJ8QI6VQTM,2025-10-08 22:28:02,OverDraft of Credit Party,1543.0,0.0,1543.0,October,Wednesday,22,Fuliza Loan
+TJ8QI6VP8V,2025-10-08 22:17:56,Merchant Payment Fuliza M-Pesa Online to 7567123 -      NANCY MOKEIRA MAISIBA,0.0,120.0,0.0,October,Wednesday,22,Till No
+TJ8QI6VP8V,2025-10-08 22:17:56,OverDraft of Credit Party,120.0,0.0,120.0,October,Wednesday,22,Fuliza Loan
+TJ8QI6V6VF,2025-10-08 19:42:50,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,70.0,0.0,October,Wednesday,19,Fuliza Airtime
+TJ8QI6V6VF,2025-10-08 19:42:50,OverDraft of Credit Party,70.0,0.0,70.0,October,Wednesday,19,Fuliza Loan
+TJ8QI6TJ11,2025-10-08 12:56:11,Pay Bill Online Fuliza M-Pesa to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,10000.0,0.0,October,Wednesday,12,Pay Bill
+TJ8QI6TJ11,2025-10-08 12:56:11,OverDraft of Credit Party,1076.22,0.0,10000.0,October,Wednesday,12,Fuliza Loan
+TJ8QI6TD6K,2025-10-08 11:45:20,Customer Bundle Purchase to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,1000.0,8923.78,October,Wednesday,11,Other
+TJ8QI6TBR1,2025-10-08 11:43:54,Customer Transfer to - 07******571 MESHACK KEBENEI,0.0,50000.0,10031.78,October,Wednesday,11,Send Money
+TJ8QI6THZJ,2025-10-08 11:43:34,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2183.22,60031.78,October,Wednesday,11,Fuliza Loan Repayment
+TJ8QI6TG56,2025-10-08 11:43:32,M-Shwari Withdraw,62215.0,0.0,62215.0,October,Wednesday,11,Mshwari Withdraw
+TJ7QI6S0ZR,2025-10-07 20:24:45,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Tuesday,20,Fuliza Airtime
+TJ7QI6S0ZR,2025-10-07 20:24:45,OverDraft of Credit Party,20.0,0.0,20.0,October,Tuesday,20,Fuliza Loan
+TJ7QI6RGHC,2025-10-07 18:06:53,Merchant Payment Fuliza M-Pesa Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,410.0,0.0,October,Tuesday,18,Till No
+TJ7QI6RGHC,2025-10-07 18:06:53,OverDraft of Credit Party,410.0,0.0,410.0,October,Tuesday,18,Fuliza Loan
+TJ7QI6R4T6,2025-10-07 17:16:40,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Tuesday,17,Fuliza Airtime
+TJ7QI6R4T6,2025-10-07 17:16:40,OverDraft of Credit Party,20.0,0.0,20.0,October,Tuesday,17,Fuliza Loan
+TJ7QI6QTCW,2025-10-07 15:02:07,Customer Withdrawal at Agent Till with Fuliza to 2049590 - TAHRIR CONTRACTORS LTD Narok Liner Agencies Narok Narok,0.0,600.0,29.0,October,Tuesday,15,Cash Withdrawal
+TJ7QI6QTCW,2025-10-07 15:02:07,OverDraft of Credit Party,629.0,0.0,629.0,October,Tuesday,15,Fuliza Loan
+TJ7QI6QXJA,2025-10-07 14:57:46,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1000.0,0.0,October,Tuesday,14,Fuliza Loan Repayment
+TJ7QI6QXJ9,2025-10-07 14:57:45,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 6ba0-42a2-a962- 630ff5dd29ca498942.,1000.0,0.0,1000.0,October,Tuesday,14,Bank Transfer
+TJ7QI6QRV3,2025-10-07 14:57:33,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,900.0,0.0,October,Tuesday,14,Fuliza Loan Repayment
+TJ7QI6QRV2,2025-10-07 14:57:33,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is fd86-4535-9cc5- d6660fb6d33b102631.,900.0,0.0,900.0,October,Tuesday,14,Bank Transfer
+TJ7QI6Q23V,2025-10-07 10:44:35,M-Shwari Lock Withdraw to Savings,0.0,0.0,0.0,October,Tuesday,10,Other
+TJ7QI6POKF,2025-10-07 08:49:50,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,100.0,0.0,October,Tuesday,8,Fuliza Airtime
+TJ7QI6POKF,2025-10-07 08:49:50,OverDraft of Credit Party,100.0,0.0,100.0,October,Tuesday,8,Fuliza Loan
+TJ6QI6P2Z5,2025-10-06 21:44:16,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,21,Fuliza Airtime
+TJ6QI6P2Z5,2025-10-06 21:44:16,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,21,Fuliza Loan
+TJ6QI6P03C,2025-10-06 20:26:03,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,20,Fuliza Airtime
+TJ6QI6P03C,2025-10-06 20:26:03,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,20,Fuliza Loan
+TJ6QI6OIST,2025-10-06 19:16:02,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,19,Fuliza Airtime
+TJ6QI6OIST,2025-10-06 19:16:02,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,19,Fuliza Loan
+TJ6QI6OCGU,2025-10-06 18:17:13,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,18,Fuliza Airtime
+TJ6QI6OCGU,2025-10-06 18:17:13,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,18,Fuliza Loan
+TJ6QI6NAV2,2025-10-06 13:01:07,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,13,Fuliza Airtime
+TJ6QI6NAV2,2025-10-06 13:01:07,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,13,Fuliza Loan
+TJ6QI6N0RS,2025-10-06 12:03:51,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,100.0,0.0,October,Monday,12,Fuliza Airtime
+TJ6QI6N0RS,2025-10-06 12:03:51,OverDraft of Credit Party,100.0,0.0,100.0,October,Monday,12,Fuliza Loan
+TJ6QI6N2WJ,2025-10-06 11:00:29,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Monday,11,Fuliza Airtime
+TJ6QI6N2WJ,2025-10-06 11:00:29,OverDraft of Credit Party,20.0,0.0,20.0,October,Monday,11,Fuliza Loan
+TJ6QI6MND6,2025-10-06 08:53:48,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,100.0,0.0,October,Monday,8,Fuliza Airtime
+TJ6QI6MND6,2025-10-06 08:53:48,OverDraft of Credit Party,100.0,0.0,100.0,October,Monday,8,Fuliza Loan
+TJ5QI6LDOO,2025-10-05 19:33:37,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,100.0,0.0,October,Sunday,19,Fuliza Airtime
+TJ5QI6LDOO,2025-10-05 19:33:37,OverDraft of Credit Party,100.0,0.0,100.0,October,Sunday,19,Fuliza Loan
+TJ5QI6KSGM,2025-10-05 17:38:50,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Sunday,17,Fuliza Airtime
+TJ5QI6KSGM,2025-10-05 17:38:50,OverDraft of Credit Party,20.0,0.0,20.0,October,Sunday,17,Fuliza Loan
+TJ5QI6KW92,2025-10-05 17:03:38,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,October,Sunday,17,Fuliza Airtime
+TJ5QI6KW92,2025-10-05 17:03:38,OverDraft of Credit Party,42.0,0.0,42.0,October,Sunday,17,Fuliza Loan
+TJ5QI6K0LF,2025-10-05 13:12:35,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Sunday,13,Fuliza Airtime
+TJ5QI6K0LF,2025-10-05 13:12:35,OverDraft of Credit Party,20.0,0.0,20.0,October,Sunday,13,Fuliza Loan
+TJ5QI6JRL2,2025-10-05 11:43:26,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Sunday,11,Fuliza Airtime
+TJ5QI6JRL2,2025-10-05 11:43:26,OverDraft of Credit Party,20.0,0.0,20.0,October,Sunday,11,Fuliza Loan
+TJ5QI6JKH8,2025-10-05 10:28:01,Customer Transfer Fuliza MPesa to - 2547******301 JOEL WETABA,0.0,50.0,0.0,October,Sunday,10,Send Money
+TJ5QI6JKH8,2025-10-05 10:28:01,OverDraft of Credit Party,50.0,0.0,50.0,October,Sunday,10,Fuliza Loan
+TJ5QI6J3PZ,2025-10-05 04:31:01,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******462 SIMON THYAKA,0.0,400.0,7.0,October,Sunday,4,Pochi
+TJ5QI6J3PZ,2025-10-05 04:31:01,OverDraft of Credit Party,407.0,0.0,407.0,October,Sunday,4,Fuliza Loan
+TJ47G6HSO6,2025-10-04 23:08:14,Funds received from - 2547******482 amon kurgat,250.0,0.0,250.0,October,Saturday,23,Received Money
+TJ4QI6IOKJ,2025-10-04 23:08:14,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,250.0,0.0,October,Saturday,23,Fuliza Loan Repayment
+TJ4QI6HQTQ,2025-10-04 18:12:01,Pay Bill Online Fuliza M-Pesa to 510800 - iPay Ltd Acc. G2288255,0.0,2815.0,0.0,October,Saturday,18,Pay Bill
+TJ4QI6HQTQ,2025-10-04 18:12:01,OverDraft of Credit Party,2084.79,0.0,2840.0,October,Saturday,18,Fuliza Loan
+TJ4QI6HJ6J,2025-10-04 18:02:52,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2244.79,755.21,October,Saturday,18,Fuliza Loan Repayment
+TJ4QI6HJ6I,2025-10-04 18:02:51,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 4c20-4c74-b984- bbd9e99b5544139282.,3000.0,0.0,3000.0,October,Saturday,18,Bank Transfer
+TJ4QI6HOJ9,2025-10-04 17:36:08,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Saturday,17,Fuliza Airtime
+TJ4QI6HOJ9,2025-10-04 17:36:08,OverDraft of Credit Party,20.0,0.0,20.0,October,Saturday,17,Fuliza Loan
+TJ4QI6HDW6,2025-10-04 16:23:15,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Saturday,16,Fuliza Airtime
+TJ4QI6HDW6,2025-10-04 16:23:15,OverDraft of Credit Party,20.0,0.0,20.0,October,Saturday,16,Fuliza Loan
+TJ4QI6GLMR,2025-10-04 12:32:24,Customer Transfer Fuliza MPesa to - 2547******602 GEOFFREY MUTIE,0.0,200.0,0.0,October,Saturday,12,Send Money
+TJ4QI6GLMR,2025-10-04 12:32:24,OverDraft of Credit Party,207.0,0.0,207.0,October,Saturday,12,Fuliza Loan
+TJ4QI6GECI,2025-10-04 11:32:16,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Saturday,11,Fuliza Airtime
+TJ4QI6GECI,2025-10-04 11:32:16,OverDraft of Credit Party,20.0,0.0,20.0,October,Saturday,11,Fuliza Loan
+TJ3QI6FMN4,2025-10-03 23:25:16,Customer Transfer Fuliza MPesa to - 2547******649 EMILY JERUTO,0.0,980.0,0.0,October,Friday,23,Send Money
+TJ3QI6FMN4,2025-10-03 23:25:16,OverDraft of Credit Party,993.0,0.0,993.0,October,Friday,23,Fuliza Loan
+TJ3QI6DX04,2025-10-03 16:07:52,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1000.0,0.0,October,Friday,16,Fuliza Loan Repayment
+TJ3JV6DCOQ,2025-10-03 16:07:51,Funds received from - 07******860 KAREN SINGOEI,1000.0,0.0,1000.0,October,Friday,16,Received Money
+TJ3QI6DUHQ,2025-10-03 15:19:38,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Friday,15,Fuliza Airtime
+TJ3QI6DUHQ,2025-10-03 15:19:38,OverDraft of Credit Party,20.0,0.0,20.0,October,Friday,15,Fuliza Loan
+TJ3QI6D2SI,2025-10-03 11:56:03,Customer Transfer Fuliza MPesa to - 07******837 lewis murgor,0.0,1000.0,13.0,October,Friday,11,Send Money
+TJ3QI6D2SI,2025-10-03 11:56:03,OverDraft of Credit Party,1013.0,0.0,1013.0,October,Friday,11,Fuliza Loan
+TJ3QI6CMRE,2025-10-03 07:19:11,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******075 JOHN KIARIE,0.0,20.0,0.0,October,Friday,7,Pochi
+TJ3QI6CMRE,2025-10-03 07:19:11,OverDraft of Credit Party,20.0,0.0,20.0,October,Friday,7,Fuliza Loan
+TJ2QI6BOR4,2025-10-02 21:18:53,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,95.0,0.0,October,Thursday,21,Send Money
+TJ2QI6BOR4,2025-10-02 21:18:53,OverDraft of Credit Party,95.0,0.0,95.0,October,Thursday,21,Fuliza Loan
+TJ2QI6BN6Z,2025-10-02 21:17:20,Pay Bill Online Fuliza M-Pesa to 247247 - Equity Paybill Account Acc. 0741220159,0.0,230.0,5.0,October,Thursday,21,Pay Bill
+TJ2QI6BN6Z,2025-10-02 21:17:20,OverDraft of Credit Party,235.0,0.0,235.0,October,Thursday,21,Fuliza Loan
+TJ2QI6BFN4,2025-10-02 20:07:30,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Thursday,20,Fuliza Airtime
+TJ2QI6BFN4,2025-10-02 20:07:30,OverDraft of Credit Party,20.0,0.0,20.0,October,Thursday,20,Fuliza Loan
+TJ2QI6B4MS,2025-10-02 19:00:29,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,October,Thursday,19,Fuliza Airtime
+TJ2QI6B4MS,2025-10-02 19:00:29,OverDraft of Credit Party,20.0,0.0,20.0,October,Thursday,19,Fuliza Loan
+TJ2QI6APQY,2025-10-02 18:12:39,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,October,Thursday,18,Fuliza Airtime
+TJ2QI6APQY,2025-10-02 18:12:39,OverDraft of Credit Party,42.0,0.0,42.0,October,Thursday,18,Fuliza Loan
+TJ2QI6A4OO,2025-10-02 14:10:17,Pay Bill Online Fuliza M-Pesa to 150501 - SAFARICOMHOME Acc. 11575021,0.0,2999.0,0.0,October,Thursday,14,Pay Bill
+TJ2QI6A4OO,2025-10-02 14:10:17,OverDraft of Credit Party,487.66,0.0,2999.0,October,Thursday,14,Fuliza Loan
+TJ2QI6A4NB,2025-10-02 14:06:54,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,2511.34,October,Thursday,14,safaricom bundles
+TJ2266CSP3,2025-10-02 12:44:33,Funds received from - 2547******649 EMILY JERUTO,2500.0,0.0,2551.34,October,Thursday,12,Received Money
+TJ2QI69IEO,2025-10-02 11:36:54,Customer Transfer to - 07******837 lewis murgor,0.0,2600.0,104.34,October,Thursday,11,Send Money
+TJ2QI69DHF,2025-10-02 11:14:06,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,2704.34,October,Thursday,11,safaricom bundles
+TJ2QI699H4,2025-10-02 10:10:32,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,2724.34,October,Thursday,10,safaricom bundles
+TJ2QI692H1,2025-10-02 09:05:50,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,92.0,2744.34,October,Thursday,9,safaricom bundles
+TJ1QI677F7,2025-10-01 19:05:24,Customer Transfer to - 07******860 KAREN SINGOEI,0.0,1000.0,2849.34,October,Wednesday,19,Send Money
+TJ1QI66EAB,2025-10-01 13:43:22,Customer Transfer to - 07******560 BRIAN KEMEI,0.0,100.0,3849.34,October,Wednesday,13,Send Money
+TJ1QI663AF,2025-10-01 13:30:07,Customer Transfer to - 2547******944 FELISTUS MUINDE,0.0,15000.0,4049.34,October,Wednesday,13,Send Money
+TJ1KT67WZH,2025-10-01 12:45:44,Funds received from - 07******837 lewis murgor,5000.0,0.0,19049.34,October,Wednesday,12,Received Money
+TJ12668QJM,2025-10-01 11:41:55,Funds received from - 2547******649 EMILY JERUTO,15000.0,0.0,16938.0,October,Wednesday,11,Received Money
+TJ1QI660BY,2025-10-01 11:41:55,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2888.66,14049.34,October,Wednesday,11,Fuliza Loan Repayment
+TJ1QI651G6,2025-10-01 04:31:45,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,15000.0,1938.0,October,Wednesday,4,Pay Bill
+TIUQI64W8D,2025-09-30 21:01:06,Pay Bill Online to 4103879 - PAYSTACK PAYMENTS KENYA LIMITED Acc. Advanced Gam,0.0,950.0,16948.0,September,Tuesday,21,Pay Bill
+TIUQI644AO,2025-09-30 19:36:13,Customer Transfer to - 2547******598 Alex Kariuki,0.0,8666.0,17988.0,September,Tuesday,19,Send Money
+TIUQI64307,2025-09-30 18:50:12,Customer Transfer to - 2547******633 JAMES GATERU,0.0,100.0,26654.0,September,Tuesday,18,Send Money
+TIUQI640RC,2025-09-30 18:28:20,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,62.0,26754.0,September,Tuesday,18,safaricom bundles
+TIUKT64GII,2025-09-30 13:59:43,Funds received from - 07******837 lewis murgor,5000.0,0.0,26816.0,September,Tuesday,13,Received Money
+TIUKT64F0U,2025-09-30 13:58:50,Funds received from - 07******837 lewis murgor,10000.0,0.0,21816.0,September,Tuesday,13,Received Money
+TIUQI62Q6G,2025-09-30 13:26:58,Customer Transfer to - 2547******801 EDWIN SIELE,0.0,3000.0,11869.0,September,Tuesday,13,Send Money
+TIUQI62OS1,2025-09-30 13:26:03,Customer Transfer to - 2547******272 CAROLYNE NTHUKO,0.0,3000.0,14922.0,September,Tuesday,13,Send Money
+TIUQI62RQI,2025-09-30 13:25:22,Customer Transfer to - 2547******691 KIMURGOR RONOH,0.0,7000.0,18000.0,September,Tuesday,13,Send Money
+TIUQI62N5Y,2025-09-30 13:23:54,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLR7F39JPBIOY.,25000.0,0.0,25000.0,September,Tuesday,13,Bank Transfer
+TIUQI625ZU,2025-09-30 09:25:10,Customer Transfer Fuliza MPesa to - 2547******093 DENNIS ONYANCHA,0.0,520.0,0.0,September,Tuesday,9,Send Money
+TIUQI625ZU,2025-09-30 09:25:10,OverDraft of Credit Party,533.0,0.0,533.0,September,Tuesday,9,Fuliza Loan
+TIUQI61XBL,2025-09-30 07:59:04,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******841 ALFRED ONDEYO,0.0,70.0,0.0,September,Tuesday,7,Pochi
+TIUQI61XBL,2025-09-30 07:59:04,OverDraft of Credit Party,70.0,0.0,70.0,September,Tuesday,7,Fuliza Loan
+TIUQI61U37,2025-09-30 07:53:12,Customer Transfer Fuliza MPesa to - 2547******147 JULIUS GITAU,0.0,50.0,0.0,September,Tuesday,7,Send Money
+TIUQI61U37,2025-09-30 07:53:12,OverDraft of Credit Party,50.0,0.0,50.0,September,Tuesday,7,Fuliza Loan
+TITQI60XBP,2025-09-29 21:28:40,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes25419545,0.0,200.0,0.0,September,Monday,21,Pay Bill
+TITQI60XBP,2025-09-29 21:28:40,OverDraft of Credit Party,200.0,0.0,200.0,September,Monday,21,Fuliza Loan
+TITQI60LX0,2025-09-29 19:39:25,Merchant Payment Fuliza M-Pesa Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,300.0,0.0,September,Monday,19,Till No
+TITQI60LX0,2025-09-29 19:39:25,OverDraft of Credit Party,300.0,0.0,300.0,September,Monday,19,Fuliza Loan
+TITQI60976,2025-09-29 19:23:44,Customer Transfer Fuliza MPesa to - 2547******215 ZAKARIA MWALE,0.0,70.0,0.0,September,Monday,19,Send Money
+TITQI60976,2025-09-29 19:23:44,OverDraft of Credit Party,70.0,0.0,70.0,September,Monday,19,Fuliza Loan
+TITQI608XU,2025-09-29 19:14:36,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Monday,19,Fuliza Airtime
+TITQI608XU,2025-09-29 19:14:36,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,19,Fuliza Loan
+TITQI607DH,2025-09-29 19:08:06,Customer Transfer Fuliza MPesa to - 2547******215 ZAKARIA MWALE,0.0,70.0,0.0,September,Monday,19,Send Money
+TITQI607DH,2025-09-29 19:08:06,OverDraft of Credit Party,70.0,0.0,70.0,September,Monday,19,Fuliza Loan
+TITQI60BLS,2025-09-29 18:59:21,Customer Transfer Fuliza MPesa to - 2547******755 DAVID MUTHONDU,0.0,340.0,7.0,September,Monday,18,Send Money
+TITQI60BLS,2025-09-29 18:59:21,OverDraft of Credit Party,347.0,0.0,347.0,September,Monday,18,Fuliza Loan
+TITQI5ZZLW,2025-09-29 18:05:46,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Monday,18,Fuliza Airtime
+TITQI5ZZLW,2025-09-29 18:05:46,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,18,Fuliza Loan
+TITQI6042U,2025-09-29 18:04:22,Pay Bill Online Fuliza M-Pesa to 522533 - Lipa na KCB Acc. 7944558,0.0,350.0,5.0,September,Monday,18,Pay Bill
+TITQI6042U,2025-09-29 18:04:22,OverDraft of Credit Party,355.0,0.0,355.0,September,Monday,18,Fuliza Loan
+TITQI5ZXYC,2025-09-29 18:03:18,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2000.0,0.0,September,Monday,18,Fuliza Loan Repayment
+TITQI5ZXYB,2025-09-29 18:03:17,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLR7T4Q43CXO6.,2000.0,0.0,2000.0,September,Monday,18,Bank Transfer
+TITQI5ZS3M,2025-09-29 17:01:10,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,112.0,0.0,September,Monday,17,Fuliza Airtime
+TITQI5ZS3M,2025-09-29 17:01:10,OverDraft of Credit Party,112.0,0.0,112.0,September,Monday,17,Fuliza Loan
+TITQI5ZATE,2025-09-29 14:54:39,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,86.0,0.0,September,Monday,14,Fuliza Airtime
+TITQI5ZATE,2025-09-29 14:54:39,OverDraft of Credit Party,86.0,0.0,86.0,September,Monday,14,Fuliza Loan
+TITQI5Z895,2025-09-29 13:51:09,Customer Transfer Fuliza MPesa to - 01******401 Peter Langat,0.0,380.0,7.0,September,Monday,13,Send Money
+TITQI5Z895,2025-09-29 13:51:09,OverDraft of Credit Party,387.0,0.0,387.0,September,Monday,13,Fuliza Loan
+TISQI5X50I,2025-09-28 19:44:54,Merchant Payment Fuliza M-Pesa Online to 7254825 - BONFACE MACHARIA KIMEMIA 4,0.0,300.0,0.0,September,Sunday,19,Till No
+TISQI5X50I,2025-09-28 19:44:54,OverDraft of Credit Party,300.0,0.0,300.0,September,Sunday,19,Fuliza Loan
+TISQI5WHFP,2025-09-28 18:15:24,Customer Transfer Fuliza MPesa to - 2547******410 ANTHONY THOMAS,0.0,150.0,0.0,September,Sunday,18,Send Money
+TISQI5WHFP,2025-09-28 18:15:24,OverDraft of Credit Party,157.0,0.0,157.0,September,Sunday,18,Fuliza Loan
+TISQI5W0P7,2025-09-28 16:50:53,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes34678197,0.0,99.0,0.0,September,Sunday,16,Pay Bill
+TISQI5W0P7,2025-09-28 16:50:53,OverDraft of Credit Party,99.0,0.0,99.0,September,Sunday,16,Fuliza Loan
+TISQI5VT8U,2025-09-28 13:52:22,Merchant Payment Fuliza M-Pesa Online to 3552949 - THE MELLON MARKET,0.0,100.0,0.0,September,Sunday,13,Till No
+TISQI5VT8U,2025-09-28 13:52:22,OverDraft of Credit Party,100.0,0.0,100.0,September,Sunday,13,Fuliza Loan
+TISQI5VGEV,2025-09-28 13:12:49,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******456 OTUNDO YABESH,0.0,70.0,0.0,September,Sunday,13,Pochi
+TISQI5VGEV,2025-09-28 13:12:49,OverDraft of Credit Party,70.0,0.0,70.0,September,Sunday,13,Fuliza Loan
+TISQI5VEPI,2025-09-28 12:51:22,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******930 boaz ombaso,0.0,50.0,0.0,September,Sunday,12,Pochi
+TISQI5VEPI,2025-09-28 12:51:22,OverDraft of Credit Party,50.0,0.0,50.0,September,Sunday,12,Fuliza Loan
+TISQI5UZL4,2025-09-28 09:39:19,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,215.0,0.0,September,Sunday,9,Send Money
+TISQI5UZL4,2025-09-28 09:39:19,OverDraft of Credit Party,222.0,0.0,222.0,September,Sunday,9,Fuliza Loan
+TIRQI5U9FZ,2025-09-27 22:12:42,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes00532593,0.0,99.0,0.0,September,Saturday,22,Pay Bill
+TIRQI5U9FZ,2025-09-27 22:12:42,OverDraft of Credit Party,99.0,0.0,99.0,September,Saturday,22,Fuliza Loan
+TIRQI5U458,2025-09-27 20:14:59,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Saturday,20,Send Money
+TIRQI5U458,2025-09-27 20:14:59,OverDraft of Credit Party,65.0,0.0,65.0,September,Saturday,20,Fuliza Loan
+TIRQI5TM59,2025-09-27 19:23:45,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******556 FRANCIS BANDE,0.0,60.0,0.0,September,Saturday,19,Pochi
+TIRQI5TM59,2025-09-27 19:23:45,OverDraft of Credit Party,60.0,0.0,60.0,September,Saturday,19,Fuliza Loan
+TIRQI5TP4Y,2025-09-27 19:19:44,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Saturday,19,Fuliza Airtime
+TIRQI5TP4Y,2025-09-27 19:19:44,OverDraft of Credit Party,20.0,0.0,20.0,September,Saturday,19,Fuliza Loan
+TIRQI5TSW8,2025-09-27 18:54:21,Pay Bill Online Fuliza M-Pesa to 542542 - IM BANK C2B Acc. 311340,0.0,120000.0,0.0,September,Saturday,18,Pay Bill
+TIRQI5TSW8,2025-09-27 18:54:21,OverDraft of Credit Party,978.25,0.0,120108.0,September,Saturday,18,Fuliza Loan
+TIRQI5TG3G,2025-09-27 18:32:04,Merchant Payment Online to 583373 - NAIVAS MOI AVENUE,0.0,59.0,119129.75,September,Saturday,18,Till No
+TIRQI5TB07,2025-09-27 18:06:01,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRR48K9NZWOI.,110000.0,0.0,119188.75,September,Saturday,18,Bank Transfer
+TIRQI5TAV3,2025-09-27 17:59:19,Customer Payment to Small Business to - 07******938 John njoki,0.0,100.0,9188.75,September,Saturday,17,Pochi
+TIRQI5TC1U,2025-09-27 17:42:34,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,9288.75,September,Saturday,17,safaricom bundles
+TIRQI5SPD2,2025-09-27 15:04:10,Customer Transfer to - 07******514 PAUL NJONJO,0.0,1090.0,9331.75,September,Saturday,15,Send Money
+TIQQI5QDZ8,2025-09-26 21:57:52,Customer Withdrawal At Agent Till 681213 - EMPAY AGENCIES SARAH SHOH UTHIRU,0.0,5000.0,10490.75,September,Friday,21,Cash Withdrawal
+TIQQI5QICT,2025-09-26 21:49:06,M-Shwari Lock Deposit,0.0,10000.0,15490.75,September,Friday,21,Other
+TIQQI5QFE2,2025-09-26 21:48:08,Pay Bill Online to 880100 - NCBA BANK KENYA PLC. Acc. PAYQNT#B3-06,0.0,11500.0,25490.75,September,Friday,21,Pay Bill
+TIQQI5QJRV,2025-09-26 21:45:32,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,50000.0,37047.75,September,Friday,21,Pay Bill
+TIQQI5QC9Y,2025-09-26 21:44:15,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2952.25,87047.75,September,Friday,21,Fuliza Loan Repayment
+TIQQI5QC9X,2025-09-26 21:44:14,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 045d-4020-b556- a446ef21c0ea86409.,90000.0,0.0,90000.0,September,Friday,21,Bank Transfer
+TIQQI5Q5U1,2025-09-26 20:05:10,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Friday,20,Send Money
+TIQQI5Q5U1,2025-09-26 20:05:10,OverDraft of Credit Party,65.0,0.0,65.0,September,Friday,20,Fuliza Loan
+TIQQI5PVEE,2025-09-26 19:14:59,Customer Transfer Fuliza MPesa to - 07******955 JAMES CHACHA,0.0,100.0,0.0,September,Friday,19,Send Money
+TIQQI5PVEE,2025-09-26 19:14:59,OverDraft of Credit Party,100.0,0.0,100.0,September,Friday,19,Fuliza Loan
+TIQQI5PP84,2025-09-26 19:05:43,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,19,Fuliza Airtime
+TIQQI5PP84,2025-09-26 19:05:43,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,19,Fuliza Loan
+TIQQI5POEV,2025-09-26 18:34:13,Merchant Payment Fuliza M-Pesa Online to 191377 - ARTCAFFE WESTMINSTER,0.0,390.0,0.0,September,Friday,18,Till No
+TIQQI5POEV,2025-09-26 18:34:13,OverDraft of Credit Party,390.0,0.0,390.0,September,Friday,18,Fuliza Loan
+TIQQI5PN3C,2025-09-26 17:52:24,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,17,Fuliza Airtime
+TIQQI5PN3C,2025-09-26 17:52:24,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,17,Fuliza Loan
+TIQQI5P5DM,2025-09-26 17:03:21,Customer Transfer Fuliza MPesa to - 2547******347 DOMINIC MUTONGA,0.0,1000.0,13.0,September,Friday,17,Send Money
+TIQQI5P5DM,2025-09-26 17:03:21,OverDraft of Credit Party,1013.0,0.0,1013.0,September,Friday,17,Fuliza Loan
+TIQQI5P6V2,2025-09-26 17:02:54,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1000.0,0.0,September,Friday,17,Fuliza Loan Repayment
+TIQQI5P5DF,2025-09-26 17:02:53,M-Shwari Withdraw,1000.0,0.0,1000.0,September,Friday,17,Mshwari Withdraw
+TIQQI5PAVL,2025-09-26 16:33:50,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,16,Fuliza Airtime
+TIQQI5PAVL,2025-09-26 16:33:50,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,16,Fuliza Loan
+TIQQI5OX8X,2025-09-26 15:02:42,Customer Transfer Fuliza MPesa to - 07******837 lewis murgor,0.0,5000.0,57.0,September,Friday,15,Send Money
+TIQQI5OX8X,2025-09-26 15:02:42,OverDraft of Credit Party,2285.11,0.0,5057.0,September,Friday,15,Fuliza Loan
+TIQQI5P1R5,2025-09-26 15:01:53,M-Shwari Withdraw,1000.0,0.0,2771.89,September,Friday,15,Mshwari Withdraw
+TIQQI5P1G9,2025-09-26 14:40:59,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,1771.89,September,Friday,14,safaricom bundles
+TIQQI5OJFT,2025-09-26 13:18:45,Customer Transfer to - 2547******305 SAMUEL KIMONDO,0.0,400.0,1798.89,September,Friday,13,Send Money
+TIQQI5OBST,2025-09-26 11:35:46,Card Pay Bill Online to 903470 - M-PESA GlobalPay Acc. MEDIUM MONTHLY           +14155085008 US,0.0,669.65,2198.89,September,Friday,11,Pay Bill
+TIQQI5ODA3,2025-09-26 11:35:28,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1131.46,2868.54,September,Friday,11,Fuliza Loan Repayment
+TIQQI5ODA2,2025-09-26 11:35:28,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 6490-4e83-ab4c- 12a8a1f7782956584.,4000.0,0.0,4000.0,September,Friday,11,Bank Transfer
+TIQQI5O4X0,2025-09-26 08:52:50,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******626 mutembei mutua,0.0,20.0,0.0,September,Friday,8,Pochi
+TIQQI5O4X0,2025-09-26 08:52:50,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,8,Fuliza Loan
+TIQQI5O05X,2025-09-26 08:32:58,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******244 Gabriel Mbugua,0.0,50.0,0.0,September,Friday,8,Pochi
+TIQQI5O05X,2025-09-26 08:32:58,OverDraft of Credit Party,50.0,0.0,50.0,September,Friday,8,Fuliza Loan
+TIQQI5NQED,2025-09-26 08:00:24,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******789 JAMES NZAKI,0.0,70.0,0.0,September,Friday,8,Pochi
+TIQQI5NQED,2025-09-26 08:00:24,OverDraft of Credit Party,70.0,0.0,70.0,September,Friday,8,Fuliza Loan
+TIQQI5NRZ3,2025-09-26 07:52:10,Customer Transfer Fuliza MPesa to - 07******879 evans mulongo,0.0,50.0,0.0,September,Friday,7,Send Money
+TIQQI5NRZ3,2025-09-26 07:52:10,OverDraft of Credit Party,50.0,0.0,50.0,September,Friday,7,Fuliza Loan
+TIQQI5NQ8G,2025-09-26 07:45:55,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,7,Fuliza Airtime
+TIQQI5NQ8G,2025-09-26 07:45:55,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,7,Fuliza Loan
+TIPQI5N7M8,2025-09-25 23:03:50,Pay Bill Online Fuliza M-Pesa to 4103879 - PAYSTACK PAYMENTS KENYA LIMITED Acc. Advanced Gam,0.0,50.0,0.0,September,Thursday,23,Pay Bill
+TIPQI5N7M8,2025-09-25 23:03:50,OverDraft of Credit Party,50.0,0.0,50.0,September,Thursday,23,Fuliza Loan
+TIPQI5N1GH,2025-09-25 23:02:21,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes65235659,0.0,950.0,0.0,September,Thursday,23,Pay Bill
+TIPQI5N1GH,2025-09-25 23:02:21,OverDraft of Credit Party,860.25,0.0,950.0,September,Thursday,23,Fuliza Loan
+TIPQI5N17P,2025-09-25 22:23:18,Customer Transfer to - 2547******728 WYCLIFFE OTIENO,0.0,100.0,89.75,September,Thursday,22,Send Money
+TIPQI5MYFS,2025-09-25 20:56:28,Customer Transfer to - 07******837 lewis murgor,0.0,2000.0,222.75,September,Thursday,20,Send Money
+TIPQI5MPAW,2025-09-25 20:55:11,M-Shwari Withdraw,2000.0,0.0,2222.75,September,Thursday,20,Mshwari Withdraw
+TIPQI5MKQX,2025-09-25 19:45:50,Customer Transfer to - 2547******692 ANTONY KIMUNGU,0.0,100.0,222.75,September,Thursday,19,Send Money
+TIPQI5MA1A,2025-09-25 18:49:45,Customer Payment to Small Business to - 07******002 Jalia Wambua,0.0,130.0,329.75,September,Thursday,18,Pochi
+TIPQI5MBF9,2025-09-25 18:43:58,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,459.75,September,Thursday,18,safaricom bundles
+TIPQI5LXLD,2025-09-25 17:35:29,Customer Payment to Small Business to - 2547******599 JOHN NSAGHA,0.0,60.0,479.75,September,Thursday,17,Pochi
+TIPQI5LSZX,2025-09-25 17:34:45,M-Shwari Withdraw,500.0,0.0,539.75,September,Thursday,17,Mshwari Withdraw
+TIPQI5KCXH,2025-09-25 08:46:57,Customer Payment to Small Business to - 2547******701 ERICKSON A,0.0,40.0,39.75,September,Thursday,8,Pochi
+TIPQI5KIJJ,2025-09-25 08:03:25,Customer Payment to Small Business to - 2547******926 DANCUN WANYOIKE,0.0,80.0,79.75,September,Thursday,8,Pochi
+TIPQI5KGTE,2025-09-25 07:46:40,Customer Payment to Small Business to - 2547******397 DAVID WAHINYA,0.0,20.0,159.75,September,Thursday,7,Pochi
+TIOQI5JA98,2025-09-24 21:21:04,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,179.75,September,Wednesday,21,Send Money
+TIOQI5J51A,2025-09-24 20:42:42,Customer Payment to Small Business to - 2547******838 RAPHAEL CHEGENYE,0.0,50.0,244.75,September,Wednesday,20,Pochi
+TIOQI5J690,2025-09-24 20:25:24,Customer Transfer to - 2547******656 SYDNEY KIPRUTO,0.0,390.0,301.75,September,Wednesday,20,Send Money
+TIOQI5J4EF,2025-09-24 20:12:08,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,691.75,September,Wednesday,20,safaricom bundles
+TIOQI5IA8V,2025-09-24 17:23:45,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,733.75,September,Wednesday,17,safaricom bundles
+TIOQI5I4P5,2025-09-24 16:35:16,Merchant Payment to 6546058 - jack muhika mwangi 9,0.0,80.0,775.75,September,Wednesday,16,Till No
+TIOQI5HNP4,2025-09-24 14:36:55,Customer Bundle Purchase to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,10.0,855.75,September,Wednesday,14,Other
+TIOQI5H5UI,2025-09-24 09:36:21,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,865.75,September,Wednesday,9,safaricom bundles
+TINQI5G82J,2025-09-23 20:32:35,Customer Transfer to - 07******837 lewis murgor,0.0,5000.0,942.75,September,Tuesday,20,Send Money
+TINQI5G82A,2025-09-23 20:32:19,M-Shwari Withdraw,1000.0,0.0,5942.75,September,Tuesday,20,Mshwari Withdraw
+TINQI5G81L,2025-09-23 20:31:29,M-Shwari Withdraw,4000.0,0.0,4942.75,September,Tuesday,20,Mshwari Withdraw
+TINQI5FLH2,2025-09-23 18:51:28,Customer Payment to Small Business to - 2547******452 PAUL MARY,0.0,130.0,949.75,September,Tuesday,18,Pochi
+TINQI5FQQF,2025-09-23 18:15:30,Customer Transfer to - 2547******081 JIMREEVES GITONGA,0.0,2000.0,1112.75,September,Tuesday,18,Send Money
+TINQI5FQQ6,2025-09-23 18:15:08,M-Shwari Withdraw,2000.0,0.0,3112.75,September,Tuesday,18,Mshwari Withdraw
+TINQI5FFGO,2025-09-23 17:55:36,Customer Payment to Small Business to - 07******504 BRIAN OTIENO,0.0,30.0,1112.75,September,Tuesday,17,Pochi
+TINQI5E70M,2025-09-23 09:06:49,Customer Payment to Small Business to - 2547******707 JORAM KARIUKI,0.0,30.0,1142.75,September,Tuesday,9,Pochi
+TINQI5E8DD,2025-09-23 08:46:47,Customer Payment to Small Business to - 07******035 alfonce ombui,0.0,50.0,1172.75,September,Tuesday,8,Pochi
+TINQI5DVOT,2025-09-23 08:16:17,Customer Payment to Small Business to - 2547******632 antony kagwamba,0.0,70.0,1222.75,September,Tuesday,8,Pochi
+TINQI5DYNI,2025-09-23 08:06:59,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,1292.75,September,Tuesday,8,safaricom bundles
+TINQI5DX3I,2025-09-23 08:04:05,Customer Transfer to - 2547******421 Julius Kariuki,0.0,50.0,1312.75,September,Tuesday,8,Send Money
+TIMQI5D4QR,2025-09-22 20:37:48,Pay Bill Online to 4097371 - 1XBET-C2B Acc. wtkes22011316,0.0,950.0,1362.75,September,Monday,20,Pay Bill
+TIMQI5CO2Z,2025-09-22 18:50:00,Merchant Payment to 3552949 - THE MELLON MARKET,0.0,100.0,2312.75,September,Monday,18,Till No
+TIMQI5CKND,2025-09-22 18:34:13,Pay Bill Online to 247247 - Equity Paybill Account Acc. 418652,0.0,1400.0,2412.75,September,Monday,18,Pay Bill
+TIMQI5BOXX,2025-09-22 15:43:16,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,64.0,3827.75,September,Monday,15,safaricom bundles
+TIMQI5B84A,2025-09-22 12:20:15,Customer Transfer to - 07******107 ANTHONY KIRWA,0.0,500.0,3898.75,September,Monday,12,Send Money
+TIMQI5ATBB,2025-09-22 09:12:20,Customer Transfer to - 2547******865 REBECCA KIBET,0.0,1000.0,4411.75,September,Monday,9,Send Money
+TIL9WZGKA1,2025-09-21 16:57:46,Pay Bill Online to 4097371 - 1XBET-C2B Acc. wtkes10875314,0.0,1000.0,5411.75,September,Sunday,16,Pay Bill
+TIL6WTD24Q,2025-09-21 16:24:56,Merchant Payment Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,90.0,6411.75,September,Sunday,16,Till No
+TIL2WSH4D8,2025-09-21 16:20:04,Merchant Payment Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,400.0,6501.75,September,Sunday,16,Till No
+TIL7WNYGAR,2025-09-21 15:54:32,Customer Transfer to - 2547******410 ANTHONY THOMAS,0.0,150.0,6908.75,September,Sunday,15,Send Money
+TIL2VK5PYM,2025-09-21 11:58:18,Airtime Purchase,0.0,50.0,7058.75,September,Sunday,11,Airtime Purchase
+TIL4VD2QAW,2025-09-21 11:11:34,Pay Bill Online to 247247 - Equity Paybill Account Acc. 934900,0.0,200.0,7113.75,September,Sunday,11,Pay Bill
+TIL3UY8O7P,2025-09-21 09:31:21,Pay Bill Online to 888880 - KPLC PREPAID Acc. 54602743145,0.0,1000.0,7323.75,September,Sunday,9,Pay Bill
+TIL3UQM0HX,2025-09-21 08:38:23,Pay Bill Online to 4103879 - PAYSTACK PAYMENTS KENYA LIMITED Acc. Advanced Gam,0.0,600.0,8333.75,September,Sunday,8,Pay Bill
+TIL9UOQ4BJ,2025-09-21 08:24:31,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,8933.75,September,Sunday,8,safaricom bundles
+TIL7U5ULLP,2025-09-21 00:05:16,Business Payment from 3030523 - 1XBET-B2C via API. Original conversation ID is 6233-40e7- b932-1f4ac24d52a7491064.,11495.0,0.0,11495.0,September,Sunday,0,Bank Transfer
+TIL4U5UVBC,2025-09-21 00:05:16,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2541.25,8953.75,September,Sunday,0,Fuliza Loan Repayment
+TIK1SV1Q2N,2025-09-20 19:31:22,Customer Transfer Fuliza MPesa to - 2547******814 Collins Oduor,0.0,100.0,0.0,September,Saturday,19,Send Money
+TIK1SV1Q2N,2025-09-20 19:31:22,OverDraft of Credit Party,100.0,0.0,100.0,September,Saturday,19,Fuliza Loan
+TIK6SRGA1Y,2025-09-20 19:19:39,Merchant Payment Fuliza M-Pesa Online to 808123 - Bata Kenshoes,0.0,35.0,0.0,September,Saturday,19,Till No
+TIK6SRGA1Y,2025-09-20 19:19:39,OverDraft of Credit Party,35.0,0.0,35.0,September,Saturday,19,Fuliza Loan
+TIK7SR4KCB,2025-09-20 19:18:32,Merchant Payment Fuliza M-Pesa Online to 808123 - Bata Kenshoes,0.0,4999.0,0.0,September,Saturday,19,Till No
+TIK7SR4KCB,2025-09-20 19:18:32,OverDraft of Credit Party,2381.08,0.0,4999.0,September,Saturday,19,Fuliza Loan
+TIK6SQY940,2025-09-20 19:18:00,M-Shwari Withdraw,1500.0,0.0,2617.92,September,Saturday,19,Mshwari Withdraw
+TIK8SLQGOS,2025-09-20 19:00:50,Merchant Payment Online to 6318406 - JAMES KIMANGA GACHECHE,0.0,2200.0,1117.92,September,Saturday,19,Till No
+TIK0SBR856,2025-09-20 18:25:55,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,3317.92,September,Saturday,18,safaricom bundles
+TIK1SBLB7D,2025-09-20 18:25:18,Merchant Payment to 8314181 - Samuel Ndiritu Wanjugu,0.0,50.0,3337.92,September,Saturday,18,Till No
+TIK2R1WQNI,2025-09-20 14:37:32,Pay Bill Online to 4097371 - 1XBET-C2B Acc. wtkes36082417,0.0,1000.0,3387.92,September,Saturday,14,Pay Bill
+TIK7QH7M0Z,2025-09-20 12:43:58,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,405.0,4387.92,September,Saturday,12,Till No
+TIK0P9KWWW,2025-09-20 08:11:05,Customer Transfer to - 07******959 Clement Tarus,0.0,500.0,4799.92,September,Saturday,8,Send Money
+TIK6OS3NJO,2025-09-20 00:37:41,Customer Transfer to - 07******226 PETER NDITIKA,0.0,320.0,5306.92,September,Saturday,0,Send Money
+TIJ2O86RMA,2025-09-19 21:13:14,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,5626.92,September,Friday,21,safaricom bundles
+TIJ7NHMR21,2025-09-19 19:32:03,Customer Transfer to - 07******921 JOSEPH MURIGU,0.0,400.0,5673.92,September,Friday,19,Send Money
+TIJ8N2U9GS,2025-09-19 18:42:11,Customer Payment to Small Business to - 07******946 samuel wanjiru,0.0,60.0,6073.92,September,Friday,18,Pochi
+TIJ8MSHRU4,2025-09-19 18:01:49,Customer Transfer to - 07******343 COLLINS MELLY,0.0,1000.0,6146.92,September,Friday,18,Send Money
+TIJ3MLALBD,2025-09-19 17:30:29,Funds received from - 07******737 David Kimani,5500.0,0.0,7146.92,September,Friday,17,Received Money
+TIJ5MF30JB,2025-09-19 17:00:51,Customer Transfer to - 2547******530 JESSE MUCHORI,0.0,2000.0,1679.92,September,Friday,17,Send Money
+TIJ8L9H9XE,2025-09-19 13:03:58,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,10000.0,3679.92,September,Friday,13,Pay Bill
+TIJ1L8M0L9,2025-09-19 12:58:46,M-Shwari Deposit,0.0,13000.0,13679.92,September,Friday,12,Mshwari Deposit
+TIJ2L5SUDU,2025-09-19 12:41:43,Pay Bill Online to 979988 - ZENKA DIGITAL LIMITED C2B Acc. L04664955,0.0,695.0,26689.92,September,Friday,12,Pay Bill
+TIJ7K66EXD,2025-09-19 08:57:38,Customer Payment to Small Business to - 2547******382 GEOFFREY OGOLA,0.0,40.0,27384.92,September,Friday,8,Pochi
+TIJ0JZWKCM,2025-09-19 08:14:57,Customer Payment to Small Business to - 2547******814 DAVID OLOO,0.0,70.0,27424.92,September,Friday,8,Pochi
+TIJ1JY1RYL,2025-09-19 08:01:33,Customer Transfer to - 2547******187 RODGERS OTONDI,0.0,50.0,27494.92,September,Friday,8,Send Money
+TII7JCFTM5,2025-09-18 22:51:12,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,52.0,27544.92,September,Thursday,22,safaricom bundles
+TII7INFIT9,2025-09-18 20:20:06,Customer Transfer to - 07******833 alice muturi,0.0,400.0,27603.92,September,Thursday,20,Send Money
+TII0HQZQX8,2025-09-18 18:27:24,Customer Transfer to - 2547******023 LOICE KOGI,0.0,100.0,28003.92,September,Thursday,18,Send Money
+TII7H9I4E5,2025-09-18 17:11:34,Pay Bill Online to 516600 - DTB Account Acc. 936891,0.0,25550.0,28175.92,September,Thursday,17,Pay Bill
+TII2FOVYJE,2025-09-18 11:40:57,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,53725.92,September,Thursday,11,Send Money
+TIH3DVSD4J,2025-09-17 21:33:18,Customer Transfer to - 2547******007 SARAH SEIF,0.0,230.0,53797.92,September,Wednesday,21,Send Money
+TIH0D9M682,2025-09-17 19:56:32,Merchant Payment to 583373 - NAIVAS MOI AVENUE,0.0,1888.0,54027.92,September,Wednesday,19,Till No
+TIH8D9G3HU,2025-09-17 19:56:00,Funds received from - 2547******649 EMILY JERUTO,500.0,0.0,55915.92,September,Wednesday,19,Received Money
+TIH9CM9XPX,2025-09-17 18:37:45,Pay Bill Online to 4097371 - 1XBET-C2B Acc. wtkes71604408,0.0,1000.0,55415.92,September,Wednesday,18,Pay Bill
+TIH6CJH9YU,2025-09-17 18:27:31,Customer Payment to Small Business to - 2547******529 STEPHEN NYANJOM,0.0,30.0,56415.92,September,Wednesday,18,Pochi
+TIH4CITLRM,2025-09-17 18:25:02,Pay Bill Online to 4097371 - 1XBET-C2B Acc. wtkes65029111,0.0,99.0,56445.92,September,Wednesday,18,Pay Bill
+TIH0CFS7E4,2025-09-17 18:13:17,Term Loan Repayment for H- Fund,0.0,807.05,56544.92,September,Wednesday,18,Other
+TIH1CFKSRJ,2025-09-17 18:12:30,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,158.0,57351.97,September,Wednesday,18,safaricom bundles
+TIH9C3OB31,2025-09-17 17:22:50,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHLRERY5NF69OE.,37500.0,0.0,57509.97,September,Wednesday,17,Bank Transfer
+TIH6BMG8E0,2025-09-17 15:52:42,Funds received from - 2547******649 EMILY JERUTO,15000.0,0.0,20009.97,September,Wednesday,15,Received Money
+TIH4BKAYY0,2025-09-17 15:40:03,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,230000.0,5009.97,September,Wednesday,15,Pay Bill
+TIH2BJSR7K,2025-09-17 15:37:00,Merchant Payment Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,240.0,235009.97,September,Wednesday,15,Till No
+TIH5BGHRXL,2025-09-17 15:17:25,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2750.03,235249.97,September,Wednesday,15,Fuliza Loan Repayment
+TIH4BGI03Q,2025-09-17 15:17:25,Business Payment from 501901 - KCB 1 via API. Original conversation ID is INTERSWITCH_20067263275.,238000.0,0.0,238000.0,September,Wednesday,15,Bank Transfer
+TIH19PXFT5,2025-09-17 08:48:57,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******101 Peter Njiru,0.0,40.0,0.0,September,Wednesday,8,Pochi
+TIH19PXFT5,2025-09-17 08:48:57,OverDraft of Credit Party,40.0,0.0,40.0,September,Wednesday,8,Fuliza Loan
+TIH79JKTUP,2025-09-17 08:04:46,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******031 MWANGI WACHIRA,0.0,80.0,0.0,September,Wednesday,8,Pochi
+TIH79JKTUP,2025-09-17 08:04:46,OverDraft of Credit Party,80.0,0.0,80.0,September,Wednesday,8,Fuliza Loan
+TIH39HZVA1,2025-09-17 07:53:03,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******568 JACKSON NDUNG'U,0.0,20.0,0.0,September,Wednesday,7,Pochi
+TIH39HZVA1,2025-09-17 07:53:03,OverDraft of Credit Party,20.0,0.0,20.0,September,Wednesday,7,Fuliza Loan
+TIH19HMMVF,2025-09-17 07:50:21,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,400.0,0.0,September,Wednesday,7,Fuliza Loan Repayment
+TIH59HMP0H,2025-09-17 07:50:21,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CIH7CUG1CB.,400.0,0.0,400.0,September,Wednesday,7,Bank Transfer
+TIG78IMH3J,2025-09-16 21:02:08,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes50036554,0.0,99.0,0.0,September,Tuesday,21,Pay Bill
+TIG78IMH3J,2025-09-16 21:02:08,OverDraft of Credit Party,99.0,0.0,99.0,September,Tuesday,21,Fuliza Loan
+TIG78IH761,2025-09-16 21:01:25,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CIG8CU9RN2.,99.0,0.0,99.0,September,Tuesday,21,Bank Transfer
+TIG08IHBK6,2025-09-16 21:01:25,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,99.0,0.0,September,Tuesday,21,Fuliza Loan Repayment
+TIG37Z17CV,2025-09-16 19:44:51,Merchant Payment Fuliza M-Pesa to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,95.0,0.0,September,Tuesday,19,Till No
+TIG37Z17CV,2025-09-16 19:44:51,OverDraft of Credit Party,95.0,0.0,95.0,September,Tuesday,19,Fuliza Loan
+TIG57MP72R,2025-09-16 19:02:53,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******500 GEOFFREY NGARE,0.0,70.0,0.0,September,Tuesday,19,Pochi
+TIG57MP72R,2025-09-16 19:02:53,OverDraft of Credit Party,70.0,0.0,70.0,September,Tuesday,19,Fuliza Loan
+TIG17AJLLX,2025-09-16 18:19:40,Merchant Payment Fuliza M-Pesa Online to 8289203 - DUNCAN ODHIAMBO AKEYO,0.0,50.0,0.0,September,Tuesday,18,Till No
+TIG17AJLLX,2025-09-16 18:19:40,OverDraft of Credit Party,50.0,0.0,50.0,September,Tuesday,18,Fuliza Loan
+TIG96EEP0F,2025-09-16 15:43:54,Merchant Payment Fuliza M-Pesa Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,0.0,September,Tuesday,15,Till No
+TIG96EEP0F,2025-09-16 15:43:54,OverDraft of Credit Party,100.0,0.0,100.0,September,Tuesday,15,Fuliza Loan
+TIG85UUSRI,2025-09-16 13:46:03,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Tuesday,13,Fuliza Airtime
+TIG85UUSRI,2025-09-16 13:46:03,OverDraft of Credit Party,20.0,0.0,20.0,September,Tuesday,13,Fuliza Loan
+TIG34H7GW7,2025-09-16 08:37:38,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******401 ERICK KIMEMIA,0.0,40.0,0.0,September,Tuesday,8,Pochi
+TIG34H7GW7,2025-09-16 08:37:38,OverDraft of Credit Party,40.0,0.0,40.0,September,Tuesday,8,Fuliza Loan
+TIG94BUFB3,2025-09-16 08:00:00,Merchant Payment Fuliza M-Pesa to 8291007 - TIMOTHY MIRUKA AYIEGA,0.0,80.0,0.0,September,Tuesday,8,Till No
+TIG94BUFB3,2025-09-16 08:00:00,OverDraft of Credit Party,80.0,0.0,80.0,September,Tuesday,8,Fuliza Loan
+TIG04ANT8G,2025-09-16 07:51:09,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,500.0,0.0,September,Tuesday,7,Fuliza Loan Repayment
+TIG24ANPK0,2025-09-16 07:51:08,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CIG8CTQ524.,500.0,0.0,500.0,September,Tuesday,7,Bank Transfer
+TIG84A48QQ,2025-09-16 07:47:00,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******335 ISAIAH GICHUNGE,0.0,20.0,0.0,September,Tuesday,7,Pochi
+TIG84A48QQ,2025-09-16 07:47:00,OverDraft of Credit Party,20.0,0.0,20.0,September,Tuesday,7,Fuliza Loan
+TIF03DI92A,2025-09-15 21:08:02,Customer Transfer Fuliza MPesa to - 2547******482 amon kurgat,0.0,200.0,7.0,September,Monday,21,Send Money
+TIF03DI92A,2025-09-15 21:08:02,OverDraft of Credit Party,207.0,0.0,207.0,September,Monday,21,Fuliza Loan
+TIF1223CD9,2025-09-15 18:09:21,Pay Bill Fuliza M-Pesa to 880100 - NCBA BANK KENYA PLC. Acc. 161105,0.0,20.0,0.0,September,Monday,18,Fuliza Loan
+TIF1223CD9,2025-09-15 18:09:21,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,18,Fuliza Loan
+TIF71YHBIV,2025-09-15 17:54:12,Merchant Payment Fuliza M-Pesa Online to 5104612 - CATHRINE MOGESI WAMBURA,0.0,90.0,0.0,September,Monday,17,Till No
+TIF71YHBIV,2025-09-15 17:54:12,OverDraft of Credit Party,90.0,0.0,90.0,September,Monday,17,Fuliza Loan
+TIF71V5WJJ,2025-09-15 17:39:45,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Monday,17,Fuliza Airtime
+TIF71V5WJJ,2025-09-15 17:39:45,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,17,Fuliza Loan
+TIF4YXH90G,2025-09-15 11:02:48,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,130.0,7.0,September,Monday,11,Send Money
+TIF4YXH90G,2025-09-15 11:02:48,OverDraft of Credit Party,137.0,0.0,137.0,September,Monday,11,Fuliza Loan
+TIE7VYBLLT,2025-09-14 18:00:55,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******953 JARED OGEO,0.0,60.0,0.0,September,Sunday,18,Pochi
+TIE7VYBLLT,2025-09-14 18:00:55,OverDraft of Credit Party,60.0,0.0,60.0,September,Sunday,18,Fuliza Loan
+TIE8VOF5RG,2025-09-14 17:13:09,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******676 lawrence mose,0.0,100.0,0.0,September,Sunday,17,Pochi
+TIE8VOF5RG,2025-09-14 17:13:09,OverDraft of Credit Party,100.0,0.0,100.0,September,Sunday,17,Fuliza Loan
+TIE6VMW4BQ,2025-09-14 17:05:28,Customer Bundle Purchase with Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,10.0,0.0,September,Sunday,17,safaricom bundles
+TIE6VMW4BQ,2025-09-14 17:05:28,OverDraft of Credit Party,10.0,0.0,10.0,September,Sunday,17,Fuliza Loan
+TIE9UHVYV1,2025-09-14 13:15:49,Merchant Payment Fuliza M-Pesa Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,300.0,0.0,September,Sunday,13,Till No
+TIE9UHVYV1,2025-09-14 13:15:49,OverDraft of Credit Party,300.0,0.0,300.0,September,Sunday,13,Fuliza Loan
+TIE9UES0C5,2025-09-14 12:56:26,Merchant Payment Fuliza M-Pesa Online to 111712 - Quick Mart Utawala Mega,0.0,55.0,0.0,September,Sunday,12,Till No
+TIE9UES0C5,2025-09-14 12:56:26,OverDraft of Credit Party,55.0,0.0,55.0,September,Sunday,12,Fuliza Loan
+TIE2UDZNA6,2025-09-14 12:51:28,Merchant Payment Fuliza M-Pesa Online to 6244893 - LIBAK MOTOR   CARE .,0.0,100.0,0.0,September,Sunday,12,Till No
+TIE2UDZNA6,2025-09-14 12:51:28,OverDraft of Credit Party,100.0,0.0,100.0,September,Sunday,12,Fuliza Loan
+TID1SRBQYF,2025-09-13 23:58:12,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Saturday,23,Fuliza Airtime
+TID1SRBQYF,2025-09-13 23:58:12,OverDraft of Credit Party,20.0,0.0,20.0,September,Saturday,23,Fuliza Loan
+TID2S62GR8,2025-09-13 21:00:16,Customer Transfer Fuliza MPesa to - 07******581 WALLACE NDUNG'U,0.0,50.0,0.0,September,Saturday,21,Send Money
+TID2S62GR8,2025-09-13 21:00:16,OverDraft of Credit Party,50.0,0.0,50.0,September,Saturday,21,Fuliza Loan
+TID4RX18NC,2025-09-13 20:21:36,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******226 CYPRIAN KIBET,0.0,100.0,0.0,September,Saturday,20,Pochi
+TID4RX18NC,2025-09-13 20:21:36,OverDraft of Credit Party,100.0,0.0,100.0,September,Saturday,20,Fuliza Loan
+TID1RRPPI9,2025-09-13 20:02:09,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******580 JOHN GITHENGU,0.0,20.0,0.0,September,Saturday,20,Pochi
+TID1RRPPI9,2025-09-13 20:02:09,OverDraft of Credit Party,20.0,0.0,20.0,September,Saturday,20,Fuliza Loan
+TID8RFFBLY,2025-09-13 19:20:36,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******007 BENJAMIN WANGUI,0.0,50.0,0.0,September,Saturday,19,Pochi
+TID8RFFBLY,2025-09-13 19:20:36,OverDraft of Credit Party,50.0,0.0,50.0,September,Saturday,19,Fuliza Loan
+TID6REYMZY,2025-09-13 19:19:02,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,September,Saturday,19,Fuliza Airtime
+TID6REYMZY,2025-09-13 19:19:02,OverDraft of Credit Party,42.0,0.0,42.0,September,Saturday,19,Fuliza Loan
+TID8PHONA4,2025-09-13 13:57:04,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Saturday,13,Send Money
+TID8PHONA4,2025-09-13 13:57:04,OverDraft of Credit Party,65.0,0.0,65.0,September,Saturday,13,Fuliza Loan
+TID0P9ULQE,2025-09-13 13:15:18,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes47262475,0.0,190.0,0.0,September,Saturday,13,Pay Bill
+TID0P9ULQE,2025-09-13 13:15:18,OverDraft of Credit Party,190.0,0.0,190.0,September,Saturday,13,Fuliza Loan
+TID2P9K0IK,2025-09-13 13:13:41,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes98774474,0.0,99.0,0.0,September,Saturday,13,Pay Bill
+TID2P9K0IK,2025-09-13 13:13:41,OverDraft of Credit Party,99.0,0.0,99.0,September,Saturday,13,Fuliza Loan
+TID8P8DI40,2025-09-13 13:07:03,Pay Bill Fuliza M-Pesa to 888880 - KPLC PREPAID Acc. 92105949876,0.0,400.0,5.0,September,Saturday,13,Fuliza Loan
+TID8P8DI40,2025-09-13 13:07:03,OverDraft of Credit Party,405.0,0.0,405.0,September,Saturday,13,Fuliza Loan
+TID4OU8EDK,2025-09-13 11:45:49,Customer Transfer Fuliza MPesa to - 2547******678 Eric Mbithuka,0.0,800.0,13.0,September,Saturday,11,Send Money
+TID4OU8EDK,2025-09-13 11:45:49,OverDraft of Credit Party,813.0,0.0,813.0,September,Saturday,11,Fuliza Loan
+TID2NPLB7A,2025-09-13 07:13:45,Pay Bill Online Fuliza M-Pesa to 222222 - E-CITIZEN Acc. YMQNBQQQ,0.0,174.0,5.0,September,Saturday,7,Pay Bill
+TID2NPLB7A,2025-09-13 07:13:45,OverDraft of Credit Party,23.52,0.0,179.0,September,Saturday,7,Fuliza Loan
+TID3NPAR35,2025-09-13 07:10:42,Customer Transfer to - 2547******664 JOYCE MUTURI,0.0,570.0,168.48,September,Saturday,7,Send Money
+TID3NNT6RF,2025-09-13 06:53:30,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CID9CQDBRZ.,3000.0,0.0,3000.0,September,Saturday,6,Bank Transfer
+TID7NNT6RT,2025-09-13 06:53:30,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2261.52,738.48,September,Saturday,6,Fuliza Loan Repayment
+TID1NMY7JL,2025-09-13 06:41:43,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,60.0,0.0,September,Saturday,6,Fuliza Airtime
+TID1NMY7JL,2025-09-13 06:41:43,OverDraft of Credit Party,60.0,0.0,60.0,September,Saturday,6,Fuliza Loan
+TIC7N2SEUZ,2025-09-12 22:12:34,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes85562782,0.0,200.0,0.0,September,Friday,22,Pay Bill
+TIC7N2SEUZ,2025-09-12 22:12:34,OverDraft of Credit Party,200.0,0.0,200.0,September,Friday,22,Fuliza Loan
+TIC2MRDAH8,2025-09-12 21:04:16,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Friday,21,Send Money
+TIC2MRDAH8,2025-09-12 21:04:16,OverDraft of Credit Party,65.0,0.0,65.0,September,Friday,21,Fuliza Loan
+TIC0LJHCA6,2025-09-12 18:23:36,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,18,Fuliza Airtime
+TIC0LJHCA6,2025-09-12 18:23:36,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,18,Fuliza Loan
+TIC3LHU3ST,2025-09-12 18:17:17,Customer Transfer Fuliza MPesa to - 2547******808 MOSES WAFULA,0.0,190.0,7.0,September,Friday,18,Send Money
+TIC3LHU3ST,2025-09-12 18:17:17,OverDraft of Credit Party,197.0,0.0,197.0,September,Friday,18,Fuliza Loan
+TIC0LCNYDM,2025-09-12 17:56:25,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******532 MARIAM NOAH,0.0,400.0,7.0,September,Friday,17,Pochi
+TIC0LCNYDM,2025-09-12 17:56:25,OverDraft of Credit Party,407.0,0.0,407.0,September,Friday,17,Fuliza Loan
+TIC4L7V6AO,2025-09-12 17:35:58,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******345 Simon Wanjiku,0.0,30.0,0.0,September,Friday,17,Pochi
+TIC4L7V6AO,2025-09-12 17:35:58,OverDraft of Credit Party,30.0,0.0,30.0,September,Friday,17,Fuliza Loan
+TIC2L1893U,2025-09-12 17:05:22,Merchant Payment Fuliza M-Pesa Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,0.0,September,Friday,17,Till No
+TIC2L1893U,2025-09-12 17:05:22,OverDraft of Credit Party,100.0,0.0,100.0,September,Friday,17,Fuliza Loan
+TIC2IKEG36,2025-09-12 08:21:34,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******367 SAMUEL MWANGI,0.0,40.0,0.0,September,Friday,8,Pochi
+TIC2IKEG36,2025-09-12 08:21:34,OverDraft of Credit Party,40.0,0.0,40.0,September,Friday,8,Fuliza Loan
+TIC8II79Y2,2025-09-12 08:05:53,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,September,Friday,8,Fuliza Airtime
+TIC8II79Y2,2025-09-12 08:05:53,OverDraft of Credit Party,42.0,0.0,42.0,September,Friday,8,Fuliza Loan
+TIC8IFBWCA,2025-09-12 07:44:16,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******569 JAMES KIAMA,0.0,80.0,0.0,September,Friday,7,Pochi
+TIC8IFBWCA,2025-09-12 07:44:16,OverDraft of Credit Party,80.0,0.0,80.0,September,Friday,7,Fuliza Loan
+TIC3IDW1LN,2025-09-12 07:32:53,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******612 Kelvin Njuguna,0.0,20.0,0.0,September,Friday,7,Pochi
+TIC3IDW1LN,2025-09-12 07:32:53,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,7,Fuliza Loan
+TIB5H1VFRT,2025-09-11 20:07:22,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,150.0,7.0,September,Thursday,20,Send Money
+TIB5H1VFRT,2025-09-11 20:07:22,OverDraft of Credit Party,157.0,0.0,157.0,September,Thursday,20,Fuliza Loan
+TIB2GX7Y1G,2025-09-11 19:52:11,Merchant Payment Fuliza M-Pesa Online to 5104612 - CATHRINE MOGESI WAMBURA,0.0,90.0,0.0,September,Thursday,19,Till No
+TIB2GX7Y1G,2025-09-11 19:52:11,OverDraft of Credit Party,90.0,0.0,90.0,September,Thursday,19,Fuliza Loan
+TIB4GHOYIK,2025-09-11 19:01:20,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******977 YOPHES OMWENGA,0.0,100.0,0.0,September,Thursday,19,Pochi
+TIB4GHOYIK,2025-09-11 19:01:20,OverDraft of Credit Party,100.0,0.0,100.0,September,Thursday,19,Fuliza Loan
+TIB4GBQLJQ,2025-09-11 18:40:49,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Thursday,18,Fuliza Airtime
+TIB4GBQLJQ,2025-09-11 18:40:49,OverDraft of Credit Party,20.0,0.0,20.0,September,Thursday,18,Fuliza Loan
+TIB2G3JU40,2025-09-11 18:09:19,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******828 AMOS ONYANGO,0.0,50.0,0.0,September,Thursday,18,Pochi
+TIB2G3JU40,2025-09-11 18:09:19,OverDraft of Credit Party,50.0,0.0,50.0,September,Thursday,18,Fuliza Loan
+TIB5DFKWRD,2025-09-11 08:53:36,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******208 Joseph Mburu,0.0,40.0,0.0,September,Thursday,8,Pochi
+TIB5DFKWRD,2025-09-11 08:53:36,OverDraft of Credit Party,40.0,0.0,40.0,September,Thursday,8,Fuliza Loan
+TIB6DA06BG,2025-09-11 08:15:16,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******926 DANCUN WANYOIKE,0.0,80.0,0.0,September,Thursday,8,Pochi
+TIB6DA06BG,2025-09-11 08:15:16,OverDraft of Credit Party,80.0,0.0,80.0,September,Thursday,8,Fuliza Loan
+TIB8D1KHZ2,2025-09-11 07:07:48,Pay Bill Online Fuliza M-Pesa to 880100 - NCBA BANK KENYA PLC. Acc. PAYQNT#B306,0.0,11500.0,57.0,September,Thursday,7,Pay Bill
+TIB8D1KHZ2,2025-09-11 07:07:48,OverDraft of Credit Party,441.12,0.0,11557.0,September,Thursday,7,Fuliza Loan
+TIA0BH4UGM,2025-09-10 19:20:13,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,11115.88,September,Wednesday,19,Send Money
+TIA5BDXWHT,2025-09-10 19:09:31,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,95.0,11180.88,September,Wednesday,19,Till No
+TIA0B0TD0W,2025-09-10 18:23:06,Customer Payment to Small Business to - 2547******146 DAVID MUTHEE,0.0,160.0,11282.88,September,Wednesday,18,Pochi
+TIA2AQIS8C,2025-09-10 17:40:32,Customer Payment to Small Business to - 2547******075 GEORGE KISERO,0.0,50.0,11442.88,September,Wednesday,17,Pochi
+TIA9A9O2LD,2025-09-10 16:17:12,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 1053-4f7e-b834- 5bd624d45464908218.,7850.0,0.0,11492.88,September,Wednesday,16,Bank Transfer
+TIA8A7SHII,2025-09-10 16:06:30,M-Shwari Lock Activate and Save,0.0,52000.0,3642.88,September,Wednesday,16,Other
+TIA7A6GPW3,2025-09-10 15:58:51,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,28000.0,55642.88,September,Wednesday,15,Pay Bill
+TIA3A2AORZ,2025-09-10 15:34:28,Customer Transfer to - 2547******194 ANTONY WAMBUI,0.0,1400.0,83665.88,September,Wednesday,15,Send Money
+TIA89XSNRI,2025-09-10 15:07:52,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,85065.88,September,Wednesday,15,safaricom bundles
+TIA594OV11,2025-09-10 12:20:43,Customer Bundle Purchase to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,1000.0,85085.88,September,Wednesday,12,Other
+TIA38JEFTD,2025-09-10 10:11:01,Customer Bundle Purchase to 826915Safaricom Offers by - 2547******607 DANIEL KORIR,0.0,112.0,86085.88,September,Wednesday,10,Other
+TIA789SJGH,2025-09-10 09:08:36,Customer Transfer to - 2547******702 BETTY MAINGI,0.0,4000.0,86254.88,September,Wednesday,9,Send Money
+TIA588J27L,2025-09-10 09:00:14,Customer Payment to Small Business to - 2547******075 GEORGE KISERO,0.0,40.0,90254.88,September,Wednesday,9,Pochi
+TIA785RKAR,2025-09-10 08:41:56,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2525.12,90294.88,September,Wednesday,8,Fuliza Loan Repayment
+TIA085RCX0,2025-09-10 08:41:56,Business Payment from 501901 - KCB 1 via API. Original conversation ID is INTERSWITCH_20066893144.,92820.0,0.0,92820.0,September,Wednesday,8,Bank Transfer
+TIA982MJML,2025-09-10 08:20:52,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******786 PETER MWANGI,0.0,70.0,0.0,September,Wednesday,8,Pochi
+TIA982MJML,2025-09-10 08:20:52,OverDraft of Credit Party,70.0,0.0,70.0,September,Wednesday,8,Fuliza Loan
+TIA07ZWPRO,2025-09-10 08:01:17,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******809 PATRICK MUGAMBI,0.0,20.0,0.0,September,Wednesday,8,Pochi
+TIA07ZWPRO,2025-09-10 08:01:17,OverDraft of Credit Party,20.0,0.0,20.0,September,Wednesday,8,Fuliza Loan
+TI99642ISB,2025-09-09 19:04:59,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Tuesday,19,Send Money
+TI99642ISB,2025-09-09 19:04:59,OverDraft of Credit Party,65.0,0.0,65.0,September,Tuesday,19,Fuliza Loan
+TI935ZA62P,2025-09-09 18:48:44,Merchant Payment Fuliza M-Pesa to 8422349 - VINCENT ODIRA MBOYA,0.0,80.0,0.0,September,Tuesday,18,Till No
+TI935ZA62P,2025-09-09 18:48:44,OverDraft of Credit Party,80.0,0.0,80.0,September,Tuesday,18,Fuliza Loan
+TI965HOJWO,2025-09-09 17:38:35,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,0.0,September,Tuesday,17,Fuliza Airtime
+TI965HOJWO,2025-09-09 17:38:35,OverDraft of Credit Party,40.0,0.0,40.0,September,Tuesday,17,Fuliza Loan
+TI985BX464,2025-09-09 17:11:43,Merchant Payment Fuliza M-Pesa Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,0.0,September,Tuesday,17,Till No
+TI985BX464,2025-09-09 17:11:43,OverDraft of Credit Party,100.0,0.0,100.0,September,Tuesday,17,Fuliza Loan
+TI912UF8O7,2025-09-09 08:20:29,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******401 ERICK KIMEMIA,0.0,40.0,0.0,September,Tuesday,8,Pochi
+TI912UF8O7,2025-09-09 08:20:29,OverDraft of Credit Party,40.0,0.0,40.0,September,Tuesday,8,Fuliza Loan
+TI952T6Z9J,2025-09-09 08:11:50,Merchant Payment Fuliza M-Pesa to 531109 - Shamchem Pharmacutical LTD,0.0,10.0,0.0,September,Tuesday,8,Till No
+TI952T6Z9J,2025-09-09 08:11:50,OverDraft of Credit Party,10.0,0.0,10.0,September,Tuesday,8,Fuliza Loan
+TI962OG6G2,2025-09-09 07:36:27,Customer Transfer Fuliza MPesa to - 2547******569 JAMES KIAMA,0.0,80.0,0.0,September,Tuesday,7,Send Money
+TI962OG6G2,2025-09-09 07:36:27,OverDraft of Credit Party,80.0,0.0,80.0,September,Tuesday,7,Fuliza Loan
+TI902MRRSO,2025-09-09 07:22:40,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******015 MARY CHEGE,0.0,20.0,0.0,September,Tuesday,7,Pochi
+TI902MRRSO,2025-09-09 07:22:40,OverDraft of Credit Party,20.0,0.0,20.0,September,Tuesday,7,Fuliza Loan
+TI8715BEOH,2025-09-08 19:36:49,Merchant Payment Fuliza M-Pesa Online to 8543532 - HALISI CHICKEN WORLD,0.0,200.0,0.0,September,Monday,19,Till No
+TI8715BEOH,2025-09-08 19:36:49,OverDraft of Credit Party,200.0,0.0,200.0,September,Monday,19,Fuliza Loan
+TI80ZVG7QA,2025-09-08 19:04:06,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,40.0,0.0,September,Monday,19,Fuliza Airtime
+TI80ZVG7QA,2025-09-08 19:04:06,OverDraft of Credit Party,40.0,0.0,40.0,September,Monday,19,Fuliza Loan
+TI84WXNBSM,2025-09-08 09:47:07,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******720 SAMUEL KINUTHIA,0.0,20.0,0.0,September,Monday,9,Pochi
+TI84WXNBSM,2025-09-08 09:47:07,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,9,Fuliza Loan
+TI85WUHZB5,2025-09-08 09:27:06,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******157 MICHAEL KARIUKI,0.0,50.0,0.0,September,Monday,9,Pochi
+TI85WUHZB5,2025-09-08 09:27:06,OverDraft of Credit Party,50.0,0.0,50.0,September,Monday,9,Fuliza Loan
+TI89WNWE17,2025-09-08 08:44:41,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******371 JOHN MARUBE,0.0,70.0,0.0,September,Monday,8,Pochi
+TI89WNWE17,2025-09-08 08:44:41,OverDraft of Credit Party,70.0,0.0,70.0,September,Monday,8,Fuliza Loan
+TI82WNH1CW,2025-09-08 08:41:55,Customer Transfer Fuliza MPesa to - 2547******147 JULIUS GITAU,0.0,50.0,0.0,September,Monday,8,Send Money
+TI82WNH1CW,2025-09-08 08:41:55,OverDraft of Credit Party,50.0,0.0,50.0,September,Monday,8,Fuliza Loan
+TI86WF46OK,2025-09-08 07:43:32,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Monday,7,Fuliza Airtime
+TI86WF46OK,2025-09-08 07:43:32,OverDraft of Credit Party,20.0,0.0,20.0,September,Monday,7,Fuliza Loan
+TI79VUM0O7,2025-09-07 22:39:48,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,64.0,0.0,September,Sunday,22,Fuliza Airtime
+TI79VUM0O7,2025-09-07 22:39:48,OverDraft of Credit Party,64.0,0.0,64.0,September,Sunday,22,Fuliza Loan
+TI79UXDYZJ,2025-09-07 19:37:50,Merchant Payment Fuliza M-Pesa Online to 5033270 - BONIFACE MUNGAI NYAMBURA,0.0,200.0,0.0,September,Sunday,19,Till No
+TI79UXDYZJ,2025-09-07 19:37:50,OverDraft of Credit Party,200.0,0.0,200.0,September,Sunday,19,Fuliza Loan
+TI74UOLLRG,2025-09-07 19:07:05,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,130.0,0.0,September,Sunday,19,Fuliza Airtime
+TI74UOLLRG,2025-09-07 19:07:05,OverDraft of Credit Party,130.0,0.0,130.0,September,Sunday,19,Fuliza Loan
+TI72THWT8M,2025-09-07 15:47:33,Customer Transfer Fuliza MPesa to - 2547******410 ANTHONY THOMAS,0.0,150.0,7.0,September,Sunday,15,Send Money
+TI72THWT8M,2025-09-07 15:47:33,OverDraft of Credit Party,157.0,0.0,157.0,September,Sunday,15,Fuliza Loan
+TI71TBMMBV,2025-09-07 15:12:52,Merchant Payment Fuliza M-Pesa to 6428455 -   THOMAS MUHIA MWANGI-1,0.0,80.0,0.0,September,Sunday,15,Till No
+TI71TBMMBV,2025-09-07 15:12:52,OverDraft of Credit Party,80.0,0.0,80.0,September,Sunday,15,Fuliza Loan
+TI77T6HTEH,2025-09-07 14:44:16,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2541******120 christine wanyoike,0.0,70.0,0.0,September,Sunday,14,Pochi
+TI77T6HTEH,2025-09-07 14:44:16,OverDraft of Credit Party,70.0,0.0,70.0,September,Sunday,14,Fuliza Loan
+TI78T3LPUA,2025-09-07 14:28:15,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******580 JOHN GITHENGU,0.0,20.0,0.0,September,Sunday,14,Pochi
+TI78T3LPUA,2025-09-07 14:28:15,OverDraft of Credit Party,20.0,0.0,20.0,September,Sunday,14,Fuliza Loan
+TI79SWIVT1,2025-09-07 13:48:29,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******715 CLINTON ONDIEKI,0.0,50.0,0.0,September,Sunday,13,Pochi
+TI79SWIVT1,2025-09-07 13:48:29,OverDraft of Credit Party,50.0,0.0,50.0,September,Sunday,13,Fuliza Loan
+TI70SURNK2,2025-09-07 13:38:33,Customer Transfer Fuliza MPesa to - 2547******301 JOEL WETABA,0.0,50.0,0.0,September,Sunday,13,Send Money
+TI70SURNK2,2025-09-07 13:38:33,OverDraft of Credit Party,50.0,0.0,50.0,September,Sunday,13,Fuliza Loan
+TI74R65F9W,2025-09-07 05:05:06,Customer Transfer Fuliza MPesa to - 2547******474 Jeremiah Koech,0.0,240.0,7.0,September,Sunday,5,Send Money
+TI74R65F9W,2025-09-07 05:05:06,OverDraft of Credit Party,247.0,0.0,247.0,September,Sunday,5,Fuliza Loan
+TI61QNDZEP,2025-09-06 21:49:36,Customer Transfer Fuliza MPesa to - 2547******221 KEITH KIPTOO,0.0,220.0,7.0,September,Saturday,21,Send Money
+TI61QNDZEP,2025-09-06 21:49:36,OverDraft of Credit Party,227.0,0.0,227.0,September,Saturday,21,Fuliza Loan
+TI67QDVIH7,2025-09-06 20:59:32,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,114.0,0.0,September,Saturday,20,Fuliza Airtime
+TI67QDVIH7,2025-09-06 20:59:32,OverDraft of Credit Party,114.0,0.0,114.0,September,Saturday,20,Fuliza Loan
+TI65Q9RMMJ,2025-09-06 20:41:22,Customer Transfer Fuliza MPesa to - 2547******958 BRIAN KEITANY,0.0,300.0,7.0,September,Saturday,20,Send Money
+TI65Q9RMMJ,2025-09-06 20:41:22,OverDraft of Credit Party,113.14,0.0,307.0,September,Saturday,20,Fuliza Loan
+TI64NR4OH4,2025-09-06 14:08:35,Merchant Payment to 814340 - BLIZZ WINES AND SPIRITS DISTRIBUTORS4,0.0,360.0,193.86,September,Saturday,14,Till No
+TI65NG4SY5,2025-09-06 13:09:56,Customer Transfer to - 2547******329 JAMES MUTURI,0.0,410.0,560.86,September,Saturday,13,Send Money
+TI65NFDLCB,2025-09-06 13:05:48,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,970.86,September,Saturday,13,safaricom bundles
+TI63MVGJC3,2025-09-06 11:12:55,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,990.86,September,Saturday,11,Send Money
+TI62MTM662,2025-09-06 11:02:12,Customer Payment to Small Business to - 07******767 geofrey wangari,0.0,80.0,1055.86,September,Saturday,11,Pochi
+TI68MR5NSI,2025-09-06 10:47:48,Merchant Payment Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,145.0,1135.86,September,Saturday,10,Till No
+TI64MPIXQ0,2025-09-06 10:38:16,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1719.14,1280.86,September,Saturday,10,Fuliza Loan Repayment
+TI66MPIW9K,2025-09-06 10:38:16,Funds received from - 2547******694 FESTUS MUTAI,3000.0,0.0,3000.0,September,Saturday,10,Received Money
+TI65MMB1D1,2025-09-06 10:19:18,Customer Transfer Fuliza MPesa to - 2547******747 AYUB AJUKU,0.0,700.0,13.0,September,Saturday,10,Send Money
+TI65MMB1D1,2025-09-06 10:19:18,OverDraft of Credit Party,713.0,0.0,713.0,September,Saturday,10,Fuliza Loan
+TI55K1CM23,2025-09-05 19:04:08,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Friday,19,Send Money
+TI55K1CM23,2025-09-05 19:04:08,OverDraft of Credit Party,65.0,0.0,65.0,September,Friday,19,Fuliza Loan
+TI58JK6EOK,2025-09-05 18:01:53,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******301 Ochwang'I Onwong'A,0.0,100.0,0.0,September,Friday,18,Pochi
+TI58JK6EOK,2025-09-05 18:01:53,OverDraft of Credit Party,100.0,0.0,100.0,September,Friday,18,Fuliza Loan
+TI55J7VS9B,2025-09-05 17:08:48,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 01******430 mark oduor,0.0,30.0,0.0,September,Friday,17,Pochi
+TI55J7VS9B,2025-09-05 17:08:48,OverDraft of Credit Party,30.0,0.0,30.0,September,Friday,17,Fuliza Loan
+TI55IHA93D,2025-09-05 14:48:10,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,14,Fuliza Airtime
+TI55IHA93D,2025-09-05 14:48:10,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,14,Fuliza Loan
+TI51GSP593,2025-09-05 08:51:12,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******762 Reagan Otieno,0.0,40.0,0.0,September,Friday,8,Pochi
+TI51GSP593,2025-09-05 08:51:12,OverDraft of Credit Party,40.0,0.0,40.0,September,Friday,8,Fuliza Loan
+TI50GRU5PC,2025-09-05 08:45:34,Customer Transfer Fuliza MPesa to - 07******623 VICTOR YONA,0.0,700.0,13.0,September,Friday,8,Send Money
+TI50GRU5PC,2025-09-05 08:45:34,OverDraft of Credit Party,713.0,0.0,713.0,September,Friday,8,Fuliza Loan
+TI51GRREXJ,2025-09-05 08:45:04,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,2500.0,0.0,September,Friday,8,Fuliza Loan Repayment
+TI55GRRDDT,2025-09-05 08:45:03,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 2dce-4efb-bbdd- a1028c0c3d161340205.,2500.0,0.0,2500.0,September,Friday,8,Bank Transfer
+TI56GLLO9U,2025-09-05 08:02:56,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******786 PETER MWANGI,0.0,80.0,0.0,September,Friday,8,Pochi
+TI56GLLO9U,2025-09-05 08:02:56,OverDraft of Credit Party,80.0,0.0,80.0,September,Friday,8,Fuliza Loan
+TI58GKWTEM,2025-09-05 07:57:52,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Friday,7,Fuliza Airtime
+TI58GKWTEM,2025-09-05 07:57:52,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,7,Fuliza Loan
+TI56GKD5KM,2025-09-05 07:53:44,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******936 ELIUD NJOKI,0.0,20.0,0.0,September,Friday,7,Pochi
+TI56GKD5KM,2025-09-05 07:53:44,OverDraft of Credit Party,20.0,0.0,20.0,September,Friday,7,Fuliza Loan
+TI45FRY5ZT,2025-09-04 21:46:00,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Thursday,21,Fuliza Airtime
+TI45FRY5ZT,2025-09-04 21:46:00,OverDraft of Credit Party,20.0,0.0,20.0,September,Thursday,21,Fuliza Loan
+TI42EYK6JY,2025-09-04 19:38:45,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,215.0,7.0,September,Thursday,19,Send Money
+TI42EYK6JY,2025-09-04 19:38:45,OverDraft of Credit Party,222.0,0.0,222.0,September,Thursday,19,Fuliza Loan
+TI46EVWBBW,2025-09-04 19:30:00,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******960 Hosea Wandiga,0.0,20.0,0.0,September,Thursday,19,Pochi
+TI46EVWBBW,2025-09-04 19:30:00,OverDraft of Credit Party,20.0,0.0,20.0,September,Thursday,19,Fuliza Loan
+TI41EURH35,2025-09-04 19:26:07,Merchant Payment Fuliza M-Pesa to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,100.0,0.0,September,Thursday,19,Till No
+TI41EURH35,2025-09-04 19:26:07,OverDraft of Credit Party,100.0,0.0,100.0,September,Thursday,19,Fuliza Loan
+TI41EIT1SL,2025-09-04 18:45:42,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,September,Thursday,18,Fuliza Airtime
+TI41EIT1SL,2025-09-04 18:45:42,OverDraft of Credit Party,20.0,0.0,20.0,September,Thursday,18,Fuliza Loan
+TI48EG8FXC,2025-09-04 18:36:18,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******955 JAMES CHACHA,0.0,100.0,0.0,September,Thursday,18,Pochi
+TI48EG8FXC,2025-09-04 18:36:18,OverDraft of Credit Party,100.0,0.0,100.0,September,Thursday,18,Fuliza Loan
+TI44E6LCX8,2025-09-04 17:58:09,Customer Transfer Fuliza MPesa to - 07******126 NIMLORD MOENGA,0.0,50.0,0.0,September,Thursday,17,Send Money
+TI44E6LCX8,2025-09-04 17:58:09,OverDraft of Credit Party,50.0,0.0,50.0,September,Thursday,17,Fuliza Loan
+TI43BIRLB5,2025-09-04 08:46:44,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******751 SHADRACK OMUKUBA,0.0,40.0,0.0,September,Thursday,8,Pochi
+TI43BIRLB5,2025-09-04 08:46:44,OverDraft of Credit Party,40.0,0.0,40.0,September,Thursday,8,Fuliza Loan
+TI45BCTTAJ,2025-09-04 08:05:26,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******007 MORRIS KINYANJUI,0.0,80.0,0.0,September,Thursday,8,Pochi
+TI45BCTTAJ,2025-09-04 08:05:26,OverDraft of Credit Party,80.0,0.0,80.0,September,Thursday,8,Fuliza Loan
+TI46BBJUE6,2025-09-04 07:55:51,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******335 ISAIAH GICHUNGE,0.0,20.0,0.0,September,Thursday,7,Pochi
+TI46BBJUE6,2025-09-04 07:55:51,OverDraft of Credit Party,20.0,0.0,20.0,September,Thursday,7,Fuliza Loan
+TI47B5LEG5,2025-09-04 07:05:36,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,86.0,0.0,September,Thursday,7,Fuliza Airtime
+TI47B5LEG5,2025-09-04 07:05:36,OverDraft of Credit Party,86.0,0.0,86.0,September,Thursday,7,Fuliza Loan
+TI33948QSD,2025-09-03 18:22:47,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,September,Wednesday,18,Send Money
+TI33948QSD,2025-09-03 18:22:47,OverDraft of Credit Party,65.0,0.0,65.0,September,Wednesday,18,Fuliza Loan
+TI378VNFQ9,2025-09-03 17:48:17,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******271 CLINTON ALARA,0.0,80.0,0.0,September,Wednesday,17,Pochi
+TI378VNFQ9,2025-09-03 17:48:17,OverDraft of Credit Party,80.0,0.0,80.0,September,Wednesday,17,Fuliza Loan
+TI397X6EM7,2025-09-03 14:45:29,Customer Transfer Fuliza MPesa to - 2547******240 PATRICK KAMAU,0.0,310.0,7.0,September,Wednesday,14,Send Money
+TI397X6EM7,2025-09-03 14:45:29,OverDraft of Credit Party,317.0,0.0,317.0,September,Wednesday,14,Fuliza Loan
+TI3176SF1T,2025-09-03 12:14:36,Customer Transfer Fuliza MPesa to - 2547******507 MARGARET MURIITHI,0.0,250.0,7.0,September,Wednesday,12,Send Money
+TI3176SF1T,2025-09-03 12:14:36,OverDraft of Credit Party,257.0,0.0,257.0,September,Wednesday,12,Fuliza Loan
+TI3264EB4I,2025-09-03 08:14:18,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******786 PETER MWANGI,0.0,70.0,0.0,September,Wednesday,8,Pochi
+TI3264EB4I,2025-09-03 08:14:18,OverDraft of Credit Party,70.0,0.0,70.0,September,Wednesday,8,Fuliza Loan
+TI38645RHE,2025-09-03 08:12:38,Customer Send Money to Micro,0.0,70.0,0.0,September,Wednesday,8,Pochi
+TI38645RHE,2025-09-03 08:12:38,OverDraft of Credit Party,70.0,0.0,70.0,September,Wednesday,8,Fuliza Loan
+TI204VXKGG,2025-09-02 20:36:20,Pay Bill Online Fuliza M-Pesa to,0.0,2999.0,0.0,September,Tuesday,20,Pay Bill
+TI204VXKGG,2025-09-02 20:36:20,OverDraft of Credit Party,759.36,0.0,2999.0,September,Tuesday,20,Fuliza Loan
+TI214UPAS9,2025-09-02 20:31:12,OD Loan Repayment to 232323 -,0.0,260.36,2239.64,September,Tuesday,20,Fuliza Loan Repayment
+TI284UOVAE,2025-09-02 20:31:11,Business Payment from 939743 -,2500.0,0.0,2500.0,September,Tuesday,20,Bank Transfer
+TI2848OHFK,2025-09-02 19:14:05,Customer Transfer Fuliza MPesa,0.0,65.0,0.0,September,Tuesday,19,Send Money
+TI2848OHFK,2025-09-02 19:14:05,OverDraft of Credit Party,65.0,0.0,65.0,September,Tuesday,19,Fuliza Loan
+TI2145FCH3,2025-09-02 19:03:15,Merchant Payment Fuliza M-Pesa,0.0,120.0,0.0,September,Tuesday,19,Till No
+TI2145FCH3,2025-09-02 19:03:15,OverDraft of Credit Party,120.0,0.0,120.0,September,Tuesday,19,Fuliza Loan
+TI2834Y2FK,2025-09-02 16:28:31,Merchant Payment Fuliza M-Pesa,0.0,100.0,0.0,September,Tuesday,16,Till No
+TI2834Y2FK,2025-09-02 16:28:31,OverDraft of Credit Party,72.78,0.0,100.0,September,Tuesday,16,Fuliza Loan
+TI2110G3Y7,2025-09-02 08:57:40,Recharge for Customer to,0.0,42.0,27.22,September,Tuesday,8,safaricom bundles
+TI231004DZ,2025-09-02 08:54:45,Customer Payment to Small,0.0,40.0,69.22,September,Tuesday,8,Other
+TI26ZSUAT4,2025-09-02 08:06:08,Customer Transfer to -,0.0,80.0,109.22,September,Tuesday,8,Send Money
+TI22ZQOYA8,2025-09-02 07:50:14,Customer Payment to Small,0.0,20.0,189.22,September,Tuesday,7,Other
+TI13Y3B41F,2025-09-01 19:29:18,Merchant Payment to 8422349 -,0.0,80.0,209.22,September,Monday,19,Till No
+TI19XO4OX1,2025-09-01 18:36:51,Customer Payment to Small,0.0,80.0,289.22,September,Monday,18,Other
+TI15XCM201,2025-09-01 17:50:23,Customer Payment to Small,0.0,30.0,369.22,September,Monday,17,Other
+TI16XAKWX8,2025-09-01 17:41:30,Recharge for Customer to,0.0,20.0,399.22,September,Monday,17,safaricom bundles
+TI11X58XZR,2025-09-01 17:17:12,Merchant Payment Online to,0.0,100.0,419.22,September,Monday,17,Till No
+THV2Q9LWI6,2025-08-31 11:09:10,Customer Transfer to -,0.0,65.0,519.22,August,Sunday,11,Send Money
+THU4M2MYM2,2025-08-30 14:34:20,Customer Payment to Small,0.0,50.0,584.22,August,Saturday,14,Other
+THU9LWOG9H,2025-08-30 14:02:52,Pay Bill Online to 4103879 -,0.0,49.0,634.22,August,Saturday,14,Pay Bill
+THU1KXJHO3,2025-08-30 10:43:14,Merchant Payment to 398429 -,0.0,370.0,683.22,August,Saturday,10,Till No
+THU0KU2XJG,2025-08-30 10:22:12,Customer Transfer of Funds,0.0,7.0,1053.22,August,Saturday,10,Other
+THU0KU2XJG,2025-08-30 10:22:12,Customer Transfer to -,0.0,400.0,1060.22,August,Saturday,10,Send Money
+THU6KNA5FI,2025-08-30 09:39:20,Pay Bill Online to 4103879 -,0.0,99.0,1460.22,August,Saturday,9,Pay Bill
+THT7JH4LOR,2025-08-29 21:57:48,Pay Bill Online to 4097371 -,0.0,94.0,1559.22,August,Friday,21,Pay Bill
+THT9J3BAMT,2025-08-29 20:45:44,Customer Payment to Small,0.0,50.0,1653.22,August,Friday,20,Other
+THT0IIIKP6,2025-08-29 19:29:36,Recharge for Customer to,0.0,42.0,1703.22,August,Friday,19,safaricom bundles
+THT9F47XS7,2025-08-29 08:29:23,Customer Payment to Small,0.0,40.0,1745.22,August,Friday,8,Other
+THT9EZ3WJL,2025-08-29 07:51:03,Customer Payment to Small,0.0,30.0,1785.22,August,Friday,7,Other
+THT3EYS9FN,2025-08-29 07:48:26,Customer Payment to Small Business to - 2547******500 Daniel Maina,0.0,80.0,1815.22,August,Friday,7,Pochi
+THT9EYNCQP,2025-08-29 07:47:20,Customer Payment to Small Business to - 2547******500 Daniel Maina,0.0,80.0,1895.22,August,Friday,7,Pochi
+THT5EXSWCB,2025-08-29 07:40:23,Customer Transfer to - 2547******301 JOEL WETABA,0.0,50.0,1975.22,August,Friday,7,Send Money
+THT6EQ2THS,2025-08-29 06:09:24,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,2025.22,August,Friday,6,safaricom bundles
+THS0E2D7GS,2025-08-28 21:10:24,Pay Bill Online to 888880 - KPLC PREPAID Acc. 92105949876,0.0,800.0,2055.22,August,Thursday,21,Pay Bill
+THS6DSON58,2025-08-28 20:25:45,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,2855.22,August,Thursday,20,Send Money
+THS0DHMJT0,2025-08-28 19:44:02,Merchant Payment Online to 5003487 - QT COLLECTION,0.0,80.0,2920.22,August,Thursday,19,Till No
+THS8D5YH2W,2025-08-28 19:04:58,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,3000.22,August,Thursday,19,safaricom bundles
+THS8D32DMA,2025-08-28 18:54:59,Customer Payment to Small Business to - 07******105 TERESIA MUTINDA,0.0,2200.0,3053.22,August,Thursday,18,Pochi
+THS6CWUPKC,2025-08-28 18:32:15,Customer Withdrawal At Agent Till 085038 -  AKSHA invS ltdsonalux building moi av food and tradeAgg,0.0,1200.0,5282.22,August,Thursday,18,Cash Withdrawal
+THS5CWNLQ1,2025-08-28 18:31:28,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 4fbc-425d-a567- 4a6da5a586f079192.,6000.0,0.0,6482.22,August,Thursday,18,Bank Transfer
+THS4CPPMT6,2025-08-28 18:03:38,Merchant Payment to 8289331 - MONICA SWERE MIGAYA,0.0,30.0,482.22,August,Thursday,18,Till No
+THS0A46WW6,2025-08-28 08:46:49,Customer Payment to Small Business to - 2547******377 RONALD NDEGE,0.0,40.0,512.22,August,Thursday,8,Pochi
+THS8A2CU5O,2025-08-28 08:34:13,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,552.22,August,Thursday,8,safaricom bundles
+THS79XH5AD,2025-08-28 07:58:02,Customer Payment to Small Business to - 07******231 Corneliours mogesa,0.0,80.0,572.22,August,Thursday,7,Pochi
+THR88DAOXK,2025-08-27 19:46:29,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,652.22,August,Wednesday,19,Send Money
+THR27R3L36,2025-08-27 18:30:04,Customer Payment to Small Business to - 07******751 WYCLIFFE MOSE,0.0,100.0,717.22,August,Wednesday,18,Pochi
+THR27MKH5Q,2025-08-27 18:11:58,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,817.22,August,Wednesday,18,safaricom bundles
+THR57KZB2F,2025-08-27 18:05:17,Customer Transfer to - 07******057 Jecton Opondo,0.0,50.0,837.22,August,Wednesday,18,Send Money
+THR16SWZYL,2025-08-27 15:39:36,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,64.0,887.22,August,Wednesday,15,safaricom bundles
+THR453LL5Y,2025-08-27 09:27:14,Customer Payment to Small Business to - 2547******002 CALEB OLALI,0.0,40.0,951.22,August,Wednesday,9,Pochi
+THR453FG3C,2025-08-27 09:26:09,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is e868-4c96-965c- 087acf11e835244962.,2000.0,0.0,2000.0,August,Wednesday,9,Bank Transfer
+THR053FL5G,2025-08-27 09:26:09,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,1008.78,991.22,August,Wednesday,9,Fuliza Loan Repayment
+THR34X9BPB,2025-08-27 08:45:19,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******391 Paul Wambui,0.0,60.0,0.0,August,Wednesday,8,Pochi
+THR34X9BPB,2025-08-27 08:45:19,OverDraft of Credit Party,60.0,0.0,60.0,August,Wednesday,8,Fuliza Loan
+THQ33OJR5P,2025-08-26 20:48:27,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,150.0,7.0,August,Tuesday,20,Send Money
+THQ33OJR5P,2025-08-26 20:48:27,OverDraft of Credit Party,157.0,0.0,157.0,August,Tuesday,20,Fuliza Loan
+THQ13HIS0Z,2025-08-26 20:18:18,Merchant Payment Fuliza M-Pesa Online to 5104612 - CATHRINE MOGESI WAMBURA,0.0,70.0,0.0,August,Tuesday,20,Till No
+THQ13HIS0Z,2025-08-26 20:18:18,OverDraft of Credit Party,70.0,0.0,70.0,August,Tuesday,20,Fuliza Loan
+THQ62ZMFI4,2025-08-26 19:14:42,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,August,Tuesday,19,Send Money
+THQ62ZMFI4,2025-08-26 19:14:42,OverDraft of Credit Party,65.0,0.0,65.0,August,Tuesday,19,Fuliza Loan
+THQ82W5FB8,2025-08-26 19:02:50,Merchant Payment Fuliza M-Pesa Online to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,170.0,0.0,August,Tuesday,19,Till No
+THQ82W5FB8,2025-08-26 19:02:50,OverDraft of Credit Party,170.0,0.0,170.0,August,Tuesday,19,Fuliza Loan
+THQ32EFPON,2025-08-26 17:53:03,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,August,Tuesday,17,Fuliza Airtime
+THQ32EFPON,2025-08-26 17:53:03,OverDraft of Credit Party,42.0,0.0,42.0,August,Tuesday,17,Fuliza Loan
+THQ62A1HJM,2025-08-26 17:33:16,Customer Transfer Fuliza MPesa to - 07******044 ACHIENG OTIENO,0.0,250.0,7.0,August,Tuesday,17,Send Money
+THQ62A1HJM,2025-08-26 17:33:16,OverDraft of Credit Party,257.0,0.0,257.0,August,Tuesday,17,Fuliza Loan
+THQ1YQGRJJ,2025-08-26 08:39:11,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******002 CALEB OLALI,0.0,40.0,0.0,August,Tuesday,8,Pochi
+THQ1YQGRJJ,2025-08-26 08:39:11,OverDraft of Credit Party,40.0,0.0,40.0,August,Tuesday,8,Fuliza Loan
+THQ3YKN8PN,2025-08-26 07:58:04,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******702 MIRIAM KARIUKI,0.0,80.0,0.0,August,Tuesday,7,Pochi
+THQ3YKN8PN,2025-08-26 07:58:04,OverDraft of Credit Party,80.0,0.0,80.0,August,Tuesday,7,Fuliza Loan
+THQ9YIZIN1,2025-08-26 07:45:09,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******181 BRITONE MACHIMBO,0.0,20.0,0.0,August,Tuesday,7,Pochi
+THQ9YIZIN1,2025-08-26 07:45:09,OverDraft of Credit Party,20.0,0.0,20.0,August,Tuesday,7,Fuliza Loan
+THP5XLRN1Z,2025-08-25 21:07:23,Pay Bill Online Fuliza M-Pesa to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,10000.0,0.0,August,Monday,21,Pay Bill
+THP5XLRN1Z,2025-08-25 21:07:23,OverDraft of Credit Party,37.79,0.0,10000.0,August,Monday,21,Fuliza Loan
+THP4XLNUNY,2025-08-25 21:06:53,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,37.79,9962.21,August,Monday,21,Fuliza Loan Repayment
+THP3XLNQ41,2025-08-25 21:06:52,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 6651-40af-9770- d4c31e35533e27455.,10000.0,0.0,10000.0,August,Monday,21,Bank Transfer
+THP3X6MXNB,2025-08-25 20:03:07,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,August,Monday,20,Send Money
+THP3X6MXNB,2025-08-25 20:03:07,OverDraft of Credit Party,37.41,0.0,65.0,August,Monday,20,Fuliza Loan
+THP6WRT7L0,2025-08-25 19:12:41,Customer Payment to Small Business to - 07******911 raphael kwache,0.0,100.0,27.59,August,Monday,19,Pochi
+THP2WQ3E20,2025-08-25 19:06:55,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,174.0,127.59,August,Monday,19,safaricom bundles
+THP5WL5Z0H,2025-08-25 18:49:47,Merchant Payment Online to 7977345 - MICHAELS BRANDS EA LIMITED,0.0,1600.0,301.59,August,Monday,18,Till No
+THP6WL19U8,2025-08-25 18:49:18,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 0022-4b4c-bad0- 7dbe4feaa98193354.,1600.0,0.0,1901.59,August,Monday,18,Bank Transfer
+THP9WCUXGV,2025-08-25 18:18:06,Customer Payment to Small Business to - 2547******409 FRED KAGENI,0.0,2700.0,354.59,August,Monday,18,Pochi
+THP1WC6BE1,2025-08-25 18:15:22,Customer Transfer to - 07******322 DANIEL KORIR,0.0,200.0,3061.59,August,Monday,18,Send Money
+THP8W5FHEU,2025-08-25 17:46:55,Customer Payment to Small Business to - 01******448 Vincent Ingati,0.0,50.0,3261.59,August,Monday,17,Pochi
+THP4W59ZP8,2025-08-25 17:46:15,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,688.41,3311.59,August,Monday,17,Fuliza Loan Repayment
+THP6W59WOE,2025-08-25 17:46:14,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is b83d-4604-baa5- f1b440af4c9036768.,4000.0,0.0,4000.0,August,Monday,17,Bank Transfer
+THP7TQ4UYJ,2025-08-25 09:40:02,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******378 VICTOR OUKOH,0.0,20.0,0.0,August,Monday,9,Pochi
+THP7TQ4UYJ,2025-08-25 09:40:02,OverDraft of Credit Party,20.0,0.0,20.0,August,Monday,9,Fuliza Loan
+THP6TMQNNS,2025-08-25 09:17:59,Customer Transfer Fuliza MPesa to - 2547******923 JOSEPH MBURU,0.0,50.0,0.0,August,Monday,9,Send Money
+THP6TMQNNS,2025-08-25 09:17:59,OverDraft of Credit Party,50.0,0.0,50.0,August,Monday,9,Fuliza Loan
+THP5TJVWXB,2025-08-25 08:59:25,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******967 STEPHEN NYANGAU,0.0,70.0,0.0,August,Monday,8,Pochi
+THP5TJVWXB,2025-08-25 08:59:25,OverDraft of Credit Party,70.0,0.0,70.0,August,Monday,8,Fuliza Loan
+THP8THTSJ6,2025-08-25 08:45:50,Customer Transfer Fuliza MPesa to - 2547******785 DOMINIC WANGARI,0.0,50.0,0.0,August,Monday,8,Send Money
+THP8THTSJ6,2025-08-25 08:45:50,OverDraft of Credit Party,50.0,0.0,50.0,August,Monday,8,Fuliza Loan
+THO1RN545H,2025-08-24 19:06:56,Customer Transfer Fuliza MPesa to - 2547******694 FESTUS MUTAI,0.0,2000.0,33.0,August,Sunday,19,Send Money
+THO1RN545H,2025-08-24 19:06:56,OverDraft of Credit Party,491.59,0.0,2033.0,August,Sunday,19,Fuliza Loan
+THO8RMZSG0,2025-08-24 19:06:20,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,458.59,1541.41,August,Sunday,19,Fuliza Loan Repayment
+THO2RMZLRU,2025-08-24 19:06:19,Funds received from - 07******874 LINSLEY EBOSO,2000.0,0.0,2000.0,August,Sunday,19,Received Money
+THO1RMKHEL,2025-08-24 19:04:38,Merchant Payment Fuliza M-Pesa Online to 7297259 - ASAPH SHOP,0.0,100.0,0.0,August,Sunday,19,Till No
+THO1RMKHEL,2025-08-24 19:04:38,OverDraft of Credit Party,100.0,0.0,100.0,August,Sunday,19,Fuliza Loan
+THO3RJPN45,2025-08-24 18:53:23,Customer Transfer Fuliza MPesa to - 2547******410 ANTHONY THOMAS,0.0,150.0,7.0,August,Sunday,18,Send Money
+THO3RJPN45,2025-08-24 18:53:23,OverDraft of Credit Party,157.0,0.0,157.0,August,Sunday,18,Fuliza Loan
+THO7PMSTLH,2025-08-24 12:39:30,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,August,Sunday,12,Fuliza Airtime
+THO7PMSTLH,2025-08-24 12:39:30,OverDraft of Credit Party,20.0,0.0,20.0,August,Sunday,12,Fuliza Loan
+THN2NYF41A,2025-08-23 22:25:13,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,64.0,0.0,August,Saturday,22,Fuliza Airtime
+THN2NYF41A,2025-08-23 22:25:13,OverDraft of Credit Party,64.0,0.0,64.0,August,Saturday,22,Fuliza Loan
+THN6NB0CMS,2025-08-23 20:15:31,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 01******479 wilson mwangi,0.0,100.0,0.0,August,Saturday,20,Pochi
+THN6NB0CMS,2025-08-23 20:15:31,OverDraft of Credit Party,100.0,0.0,100.0,August,Saturday,20,Fuliza Loan
+THN9N8J9BT,2025-08-23 20:05:13,Customer Transfer Fuliza MPesa to - 07******837 lewis murgor,0.0,100.0,0.0,August,Saturday,20,Send Money
+THN9N8J9BT,2025-08-23 20:05:13,OverDraft of Credit Party,13.04,0.0,100.0,August,Saturday,20,Fuliza Loan
+THN5N0IT4V,2025-08-23 19:35:30,Customer Payment to Small Business to - 2547******791 ELIJAH NYAMWARO,0.0,50.0,86.96,August,Saturday,19,Pochi
+THN9MPLPID,2025-08-23 18:57:49,Customer Transfer to - 07******322 DANIEL KORIR,0.0,250.0,143.96,August,Saturday,18,Send Money
+THN4L8EW4A,2025-08-23 14:35:23,Pay Bill Online to 4103879 - PAYSTACK PAYMENTS KENYA LIMITED Acc. Advanced Gam,0.0,99.0,393.96,August,Saturday,14,Pay Bill
+THN3KVAND1,2025-08-23 13:22:24,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,492.96,August,Saturday,13,safaricom bundles
+THN9KS0AF1,2025-08-23 13:03:19,Merchant Payment to 718107 - NAIVAS MOUNTAIN VIEW,0.0,290.0,512.96,August,Saturday,13,Till No
+THN1KQU0GT,2025-08-23 12:56:24,Customer Transfer to - 01******174 wilson waithira,0.0,100.0,802.96,August,Saturday,12,Send Money
+THN0KOEP7U,2025-08-23 12:42:13,Pay Bill Online to 4103879 - PAYSTACK PAYMENTS KENYA LIMITED Acc. Advanced Gam,0.0,99.0,902.96,August,Saturday,12,Pay Bill
+THN8KJE7SU,2025-08-23 12:12:42,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHL9IYKB8B8KOJ.,2000.0,0.0,2000.0,August,Saturday,12,Bank Transfer
+THN5KJE2JB,2025-08-23 12:12:42,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,998.04,1001.96,August,Saturday,12,Fuliza Loan Repayment
+THM0GAQ2DI,2025-08-22 15:14:34,Pay Bill Fuliza M-Pesa to 510800 - iPay Ltd Acc. G2290347,0.0,1192.0,15.0,August,Friday,15,Fuliza Loan
+THM0GAQ2DI,2025-08-22 15:14:34,OverDraft of Credit Party,988.15,0.0,1207.0,August,Friday,15,Fuliza Loan
+THM2G1NUPM,2025-08-22 14:23:00,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,281.15,218.85,August,Friday,14,Fuliza Loan Repayment
+THM4G1NXLU,2025-08-22 14:23:00,Funds received from - 07******571 MESHACK KEBENEI,500.0,0.0,500.0,August,Friday,14,Received Money
+THM2FA49KY,2025-08-22 11:43:16,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,August,Friday,11,Send Money
+THM2FA49KY,2025-08-22 11:43:16,OverDraft of Credit Party,65.0,0.0,65.0,August,Friday,11,Fuliza Loan
+THM2F8DDBW,2025-08-22 11:32:39,Merchant Payment Fuliza M-Pesa to 398429 - UTHIRU WAYSIDE SUPERMARKET,0.0,235.0,0.0,August,Friday,11,Till No
+THM2F8DDBW,2025-08-22 11:32:39,OverDraft of Credit Party,213.36,0.0,235.0,August,Friday,11,Fuliza Loan
+THM0F7U7KG,2025-08-22 11:29:24,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,478.36,21.64,August,Friday,11,Fuliza Loan Repayment
+THM8F7UISA,2025-08-22 11:29:24,Business Payment from 979992 - ZENKA DIGITAL LIMITED B2C via API. Original conversation ID is 93fa-4f9d-a0a6- 32a5be78461a26816.,500.0,0.0,500.0,August,Friday,11,Bank Transfer
+THM6F5VNLG,2025-08-22 11:17:22,Pay Bill Online Fuliza M-Pesa to 979988 - ZENKA DIGITAL LIMITED C2B Acc. L88384497,0.0,346.0,5.0,August,Friday,11,Pay Bill
+THM6F5VNLG,2025-08-22 11:17:22,OverDraft of Credit Party,351.0,0.0,351.0,August,Friday,11,Fuliza Loan
+THM8F5OIA6,2025-08-22 11:16:07,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,720.0,0.0,August,Friday,11,Fuliza Loan Repayment
+THM1F5OI9P,2025-08-22 11:16:05,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is b682-40e3-92c0- dfc39f95b449930982.,720.0,0.0,720.0,August,Friday,11,Bank Transfer
+THL8CUOLAG,2025-08-21 19:46:39,Merchant Payment Fuliza M-Pesa to 8543532 - HALISI CHICKEN WORLD,0.0,200.0,0.0,August,Thursday,19,Till No
+THL8CUOLAG,2025-08-21 19:46:39,OverDraft of Credit Party,200.0,0.0,200.0,August,Thursday,19,Fuliza Loan
+THL2CIR69K,2025-08-21 19:05:01,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******273 ALEX OBWOGI,0.0,100.0,0.0,August,Thursday,19,Pochi
+THL2CIR69K,2025-08-21 19:05:01,OverDraft of Credit Party,100.0,0.0,100.0,August,Thursday,19,Fuliza Loan
+THL0C7ZT2A,2025-08-21 18:23:53,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******424 daniel odhiambo,0.0,30.0,0.0,August,Thursday,18,Pochi
+THL0C7ZT2A,2025-08-21 18:23:53,OverDraft of Credit Party,30.0,0.0,30.0,August,Thursday,18,Fuliza Loan
+THL1BW7VVJ,2025-08-21 17:31:51,Merchant Payment Fuliza M-Pesa Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,0.0,August,Thursday,17,Till No
+THL1BW7VVJ,2025-08-21 17:31:51,OverDraft of Credit Party,100.0,0.0,100.0,August,Thursday,17,Fuliza Loan
+THL49M20D8,2025-08-21 09:24:57,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******060 PETER GITHENYA,0.0,20.0,0.0,August,Thursday,9,Pochi
+THL49M20D8,2025-08-21 09:24:57,OverDraft of Credit Party,20.0,0.0,20.0,August,Thursday,9,Fuliza Loan
+THL49JBLU4,2025-08-21 09:06:24,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******682 SAMWEL KANGETHE,0.0,50.0,0.0,August,Thursday,9,Pochi
+THL49JBLU4,2025-08-21 09:06:24,OverDraft of Credit Party,50.0,0.0,50.0,August,Thursday,9,Fuliza Loan
+THL69EZSDC,2025-08-21 08:36:36,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******628 Andrew Arisa,0.0,50.0,0.0,August,Thursday,8,Pochi
+THL69EZSDC,2025-08-21 08:36:36,OverDraft of Credit Party,50.0,0.0,50.0,August,Thursday,8,Fuliza Loan
+THL89E7GDE,2025-08-21 08:31:01,Customer Transfer Fuliza MPesa to - 2547******147 JULIUS GITAU,0.0,50.0,0.0,August,Thursday,8,Send Money
+THL89E7GDE,2025-08-21 08:31:01,OverDraft of Credit Party,50.0,0.0,50.0,August,Thursday,8,Fuliza Loan
+THK28NZNXA,2025-08-20 22:13:03,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,August,Wednesday,22,Fuliza Airtime
+THK28NZNXA,2025-08-20 22:13:03,OverDraft of Credit Party,20.0,0.0,20.0,August,Wednesday,22,Fuliza Loan
+THK48DXQK4,2025-08-20 21:09:17,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,August,Wednesday,21,Fuliza Airtime
+THK48DXQK4,2025-08-20 21:09:17,OverDraft of Credit Party,20.0,0.0,20.0,August,Wednesday,21,Fuliza Loan
+THK17TD4K3,2025-08-20 19:41:32,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,August,Wednesday,19,Fuliza Airtime
+THK17TD4K3,2025-08-20 19:41:32,OverDraft of Credit Party,20.0,0.0,20.0,August,Wednesday,19,Fuliza Loan
+THK76VADGB,2025-08-20 17:26:54,Merchant Payment Fuliza M-Pesa Online to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,0.0,August,Wednesday,17,Till No
+THK76VADGB,2025-08-20 17:26:54,OverDraft of Credit Party,100.0,0.0,100.0,August,Wednesday,17,Fuliza Loan
+THK64SC1TM,2025-08-20 10:07:59,Customer Transfer Fuliza MPesa,0.0,630.0,13.0,August,Wednesday,10,Send Money
+THK64SC1TM,2025-08-20 10:07:59,OverDraft of Credit Party,75.49,0.0,643.0,August,Wednesday,10,Fuliza Loan
+THK74RIG75,2025-08-20 10:02:37,OD Loan Repayment to 232323 -,0.0,382.49,567.51,August,Wednesday,10,Fuliza Loan Repayment
+THK84RI8Y2,2025-08-20 10:02:36,Business Payment from 939743 -,950.0,0.0,950.0,August,Wednesday,10,Bank Transfer
+THK44NGID0,2025-08-20 09:35:26,Recharge for Customer With,0.0,20.0,0.0,August,Wednesday,9,safaricom bundles
+THK44NGID0,2025-08-20 09:35:26,OverDraft of Credit Party,20.0,0.0,20.0,August,Wednesday,9,Fuliza Loan
+THJ02G0HZU,2025-08-19 18:50:20,Customer Transfer of Funds,0.0,7.0,0.0,August,Tuesday,18,Other
+THJ02G0HZU,2025-08-19 18:50:20,Customer Transfer Fuliza MPesa,0.0,350.0,7.0,August,Tuesday,18,Send Money
+THJ02G0HZU,2025-08-19 18:50:20,OverDraft of Credit Party,357.0,0.0,357.0,August,Tuesday,18,Fuliza Loan
+THJ61V0ZFE,2025-08-19 17:19:35,Pay Bill Online Fuliza M-Pesa to,0.0,20.0,0.0,August,Tuesday,17,Pay Bill
+THJ61V0ZFE,2025-08-19 17:19:35,OverDraft of Credit Party,1.7,0.0,20.0,August,Tuesday,17,Fuliza Loan
+THJ8YFHYZ8,2025-08-19 08:18:22,Customer Payment to Small,0.0,40.0,18.3,August,Tuesday,8,Other
+THJ6YBAFK6,2025-08-19 07:42:01,Recharge for Customer to,0.0,42.0,58.3,August,Tuesday,7,safaricom bundles
+THJ8YB5WEM,2025-08-19 07:40:45,Customer Payment to Small,0.0,80.0,100.3,August,Tuesday,7,Other
+THJ4YA8UI4,2025-08-19 07:31:51,Customer Transfer to -,0.0,50.0,180.3,August,Tuesday,7,Send Money
+THI8XKTSNU,2025-08-18 21:13:49,Customer Transfer of Funds,0.0,7.0,230.3,August,Monday,21,Other
+THI8XKTSNU,2025-08-18 21:13:49,Customer Transfer to -,0.0,105.0,237.3,August,Monday,21,Send Money
+THI4X87EMU,2025-08-18 20:09:38,Customer Transfer of Funds,0.0,13.0,342.3,August,Monday,20,Other
+THI4X87EMU,2025-08-18 20:09:38,Customer Transfer to -,0.0,1000.0,355.3,August,Monday,20,Send Money
+THI0WU86UY,2025-08-18 19:14:45,Customer Payment to Small,0.0,80.0,1355.3,August,Monday,19,Other
+THI3WQ1P81,2025-08-18 18:59:18,Recharge for Customer to,0.0,20.0,1435.3,August,Monday,18,safaricom bundles
+THI6WD4SLS,2025-08-18 18:07:04,Customer Payment to Small,0.0,50.0,1455.3,August,Monday,18,Other
+THH7T6ZHZZ,2025-08-17 23:44:57,Recharge for Customer to,0.0,20.0,1505.3,August,Sunday,23,safaricom bundles
+THH2T2LOXS,2025-08-17 22:33:36,Recharge for Customer to,0.0,20.0,1525.3,August,Sunday,22,safaricom bundles
+THH7STN0C5,2025-08-17 21:22:06,Recharge for Customer to,0.0,20.0,1545.3,August,Sunday,21,safaricom bundles
+THH9RX7S3L,2025-08-17 18:49:46,Customer Transfer of Funds,0.0,7.0,1565.3,August,Sunday,18,Other
+THH9RX7S3L,2025-08-17 18:49:46,Customer Transfer to -,0.0,400.0,1572.3,August,Sunday,18,Send Money
+THH2QI1MAK,2025-08-17 14:13:57,Customer Transfer to -,0.0,90.0,1972.3,August,Sunday,14,Send Money
+THH7Q8Q7MX,2025-08-17 13:16:55,Customer Bundle Purchase to,0.0,1000.0,2062.3,August,Sunday,13,Other
+THH0Q5JQP4,2025-08-17 12:55:58,Customer Transfer of Funds,0.0,7.0,3062.3,August,Sunday,12,Other
+THH0Q5JQP4,2025-08-17 12:55:58,Customer Transfer to -,0.0,500.0,3069.3,August,Sunday,12,Send Money
+THH0PZBRUM,2025-08-17 12:14:09,Merchant Payment Online to,0.0,107.0,3569.3,August,Sunday,12,Till No
+THH6POI612,2025-08-17 10:59:04,Recharge for Customer to,0.0,386.0,3676.3,August,Sunday,10,safaricom bundles
+THH3PLS117,2025-08-17 10:39:45,Funds received from - 2547******253 VINCENT KIPKORIR,5000.0,0.0,5000.0,August,Sunday,10,Received Money
+THH6PLRNR8,2025-08-17 10:39:45,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,937.7,4062.3,August,Sunday,10,Fuliza Loan Repayment
+THG6MS385U,2025-08-16 17:51:10,Merchant Payment Fuliza M-Pesa to 3545323 - SELECT AND PICK MINIMATT LTD,0.0,50.0,0.0,August,Saturday,17,Till No
+THG6MS385U,2025-08-16 17:51:10,OverDraft of Credit Party,50.0,0.0,50.0,August,Saturday,17,Fuliza Loan
+THG0MRQWAI,2025-08-16 17:49:33,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******537 SAMWEL GITONGA,0.0,70.0,0.0,August,Saturday,17,Pochi
+THG0MRQWAI,2025-08-16 17:49:33,OverDraft of Credit Party,70.0,0.0,70.0,August,Saturday,17,Fuliza Loan
+THG7MM9Q67,2025-08-16 17:23:00,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,150.0,0.0,August,Saturday,17,Fuliza Loan Repayment
+THG5MM9H8H,2025-08-16 17:23:00,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 91ca-43a1-b841- 868cfd9b00597431.,150.0,0.0,150.0,August,Saturday,17,Bank Transfer
+THG2MLGELS,2025-08-16 17:18:56,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******384 john mulwa,0.0,20.0,0.0,August,Saturday,17,Pochi
+THG2MLGELS,2025-08-16 17:18:56,OverDraft of Credit Party,20.0,0.0,20.0,August,Saturday,17,Fuliza Loan
+THG3MKTRE1,2025-08-16 17:15:47,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******384 john mulwa,0.0,80.0,0.0,August,Saturday,17,Pochi
+THG3MKTRE1,2025-08-16 17:15:47,OverDraft of Credit Party,80.0,0.0,80.0,August,Saturday,17,Fuliza Loan
+THG1MDPMWR,2025-08-16 16:38:40,Merchant Payment Fuliza M-Pesa to 854388 -        TOPGATE BOOKSHOP,0.0,3190.0,0.0,August,Saturday,16,Till No
+THG1MDPMWR,2025-08-16 16:38:40,OverDraft of Credit Party,856.93,0.0,3190.0,August,Saturday,16,Fuliza Loan
+THG6MARNFO,2025-08-16 16:22:49,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,966.93,2333.07,August,Saturday,16,Fuliza Loan Repayment
+THG0MARL5K,2025-08-16 16:22:48,Funds received from - 2547******253 VINCENT KIPKORIR,3300.0,0.0,3300.0,August,Saturday,16,Received Money
+THG7M37D93,2025-08-16 15:39:20,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******005 BRIAN NJAMBI,0.0,50.0,0.0,August,Saturday,15,Pochi
+THG7M37D93,2025-08-16 15:39:20,OverDraft of Credit Party,50.0,0.0,50.0,August,Saturday,15,Fuliza Loan
+THG6LT079K,2025-08-16 14:39:44,Pay Bill Online Fuliza M-Pesa to 4097371 - 1XBET-C2B Acc. wtkes13222104,0.0,90.0,0.0,August,Saturday,14,Pay Bill
+THG6LT079K,2025-08-16 14:39:44,OverDraft of Credit Party,90.0,0.0,90.0,August,Saturday,14,Fuliza Loan
+THG2KATHL0,2025-08-16 09:09:51,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,105.0,7.0,August,Saturday,9,Send Money
+THG2KATHL0,2025-08-16 09:09:51,OverDraft of Credit Party,112.0,0.0,112.0,August,Saturday,9,Fuliza Loan
+THG6K9ZB9W,2025-08-16 09:04:03,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,280.0,0.0,August,Saturday,9,Fuliza Loan Repayment
+THG1K9Z89Z,2025-08-16 09:04:02,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is e813-4082-91e0- 89faf6ba9b7e469889.,280.0,0.0,280.0,August,Saturday,9,Bank Transfer
+THF5IZFKY3,2025-08-15 21:02:10,Customer Transfer Fuliza MPesa to - 2547******075 RAYMOND NYAMWEYA,0.0,50.0,0.0,August,Friday,21,Send Money
+THF5IZFKY3,2025-08-15 21:02:10,OverDraft of Credit Party,50.0,0.0,50.0,August,Friday,21,Fuliza Loan
+THF5HRP86H,2025-08-15 18:18:35,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******002 CALEB OLALI,0.0,50.0,0.0,August,Friday,18,Pochi
+THF5HRP86H,2025-08-15 18:18:35,OverDraft of Credit Party,50.0,0.0,50.0,August,Friday,18,Fuliza Loan
+THF8EVWOR0,2025-08-15 08:24:30,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******375 SAMUEL OYENGO,0.0,40.0,0.0,August,Friday,8,Pochi
+THF8EVWOR0,2025-08-15 08:24:30,OverDraft of Credit Party,40.0,0.0,40.0,August,Friday,8,Fuliza Loan
+THF1ERIDMH,2025-08-15 07:50:48,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******786 PETER MWANGI,0.0,80.0,0.0,August,Friday,7,Pochi
+THF1ERIDMH,2025-08-15 07:50:48,OverDraft of Credit Party,80.0,0.0,80.0,August,Friday,7,Fuliza Loan
+THF3EQYJCD,2025-08-15 07:46:15,Customer Transfer Fuliza MPesa to - 2547******301 JOEL WETABA,0.0,50.0,0.0,August,Friday,7,Send Money
+THF3EQYJCD,2025-08-15 07:46:15,OverDraft of Credit Party,50.0,0.0,50.0,August,Friday,7,Fuliza Loan
+THE4DZ4USY,2025-08-14 21:28:16,Merchant Payment Fuliza M-Pesa Online to 8543532 - HALISI CHICKEN WORLD,0.0,200.0,0.0,August,Thursday,21,Till No
+THE4DZ4USY,2025-08-14 21:28:16,OverDraft of Credit Party,200.0,0.0,200.0,August,Thursday,21,Fuliza Loan
+THE5DZ0JFD,2025-08-14 21:27:32,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 5074-4df5-a401- a921eac5103e128357.,450.0,0.0,450.0,August,Thursday,21,Bank Transfer
+THE1DZ0JG3,2025-08-14 21:27:32,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,450.0,0.0,August,Thursday,21,Fuliza Loan Repayment
+THE4CM4MH2,2025-08-14 18:07:16,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******838 RAPHAEL CHEGENYE,0.0,100.0,0.0,August,Thursday,18,Pochi
+THE4CM4MH2,2025-08-14 18:07:16,OverDraft of Credit Party,100.0,0.0,100.0,August,Thursday,18,Fuliza Loan
+THE4CIRC7I,2025-08-14 17:52:26,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,60.0,0.0,August,Thursday,17,Fuliza Loan Repayment
+THE5CIR6X9,2025-08-14 17:52:25,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CHE4BPPDN2.,60.0,0.0,60.0,August,Thursday,17,Bank Transfer
+THE6CDD32S,2025-08-14 17:27:23,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******943 BRIAN OWINO,0.0,30.0,0.0,August,Thursday,17,Pochi
+THE6CDD32S,2025-08-14 17:27:23,OverDraft of Credit Party,30.0,0.0,30.0,August,Thursday,17,Fuliza Loan
+THE79XYOLB,2025-08-14 08:41:35,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******520 Joshua Masila,0.0,40.0,0.0,August,Thursday,8,Pochi
+THE79XYOLB,2025-08-14 08:41:35,OverDraft of Credit Party,40.0,0.0,40.0,August,Thursday,8,Fuliza Loan
+THE99TPWD1,2025-08-14 08:11:12,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******510 Brian Moranga,0.0,100.0,0.0,August,Thursday,8,Pochi
+THE99TPWD1,2025-08-14 08:11:12,OverDraft of Credit Party,100.0,0.0,100.0,August,Thursday,8,Fuliza Loan
+THE79RUXNF,2025-08-14 07:56:48,Customer Transfer Fuliza MPesa to - 2547******301 JOEL WETABA,0.0,50.0,0.0,August,Thursday,7,Send Money
+THE79RUXNF,2025-08-14 07:56:48,OverDraft of Credit Party,50.0,0.0,50.0,August,Thursday,7,Fuliza Loan
+THD38EFFB5,2025-08-13 19:55:59,Customer Transfer Fuliza MPesa to - 07******322 DANIEL KORIR,0.0,300.0,7.0,August,Wednesday,19,Send Money
+THD38EFFB5,2025-08-13 19:55:59,OverDraft of Credit Party,307.0,0.0,307.0,August,Wednesday,19,Fuliza Loan
+THD58B4ELH,2025-08-13 19:43:53,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,80.0,0.0,August,Wednesday,19,Send Money
+THD58B4ELH,2025-08-13 19:43:53,OverDraft of Credit Party,80.0,0.0,80.0,August,Wednesday,19,Fuliza Loan
+THD77JB91F,2025-08-13 17:59:09,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******203 WILFRED ABUGA,0.0,80.0,0.0,August,Wednesday,17,Pochi
+THD77JB91F,2025-08-13 17:59:09,OverDraft of Credit Party,80.0,0.0,80.0,August,Wednesday,17,Fuliza Loan
+THD4782QYW,2025-08-13 17:06:03,Customer Transfer Fuliza MPesa to - 07******044 ACHIENG OTIENO,0.0,250.0,7.0,August,Wednesday,17,Send Money
+THD4782QYW,2025-08-13 17:06:03,OverDraft of Credit Party,230.53,0.0,257.0,August,Wednesday,17,Fuliza Loan
+THD4704436,2025-08-13 16:23:06,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,913.53,26.47,August,Wednesday,16,Fuliza Loan Repayment
+THD97040B7,2025-08-13 16:23:06,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is e41a-4139-bfe6- c83b97c76225124500.,940.0,0.0,940.0,August,Wednesday,16,Bank Transfer
+THD24XFYSI,2025-08-13 08:40:00,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******116 THOMAS MULWA,0.0,40.0,0.0,August,Wednesday,8,Pochi
+THD24XFYSI,2025-08-13 08:40:00,OverDraft of Credit Party,40.0,0.0,40.0,August,Wednesday,8,Fuliza Loan
+THD44RRQIM,2025-08-13 07:58:00,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******926 DANCUN WANYOIKE,0.0,80.0,0.0,August,Wednesday,7,Pochi
+THD44RRQIM,2025-08-13 07:58:00,OverDraft of Credit Party,80.0,0.0,80.0,August,Wednesday,7,Fuliza Loan
+THD54QPOLP,2025-08-13 07:49:22,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******335 ISAIAH GICHUNGE,0.0,20.0,0.0,August,Wednesday,7,Pochi
+THD54QPOLP,2025-08-13 07:49:22,OverDraft of Credit Party,20.0,0.0,20.0,August,Wednesday,7,Fuliza Loan
+THC93O0737,2025-08-12 20:30:21,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,105.0,7.0,August,Tuesday,20,Send Money
+THC93O0737,2025-08-12 20:30:21,OverDraft of Credit Party,112.0,0.0,112.0,August,Tuesday,20,Fuliza Loan
+THC22QDCMM,2025-08-12 18:21:32,Pay Bill Fuliza M-Pesa to 4074759 - DONDAA PAY LIMITED 1 Acc. KBU 380C,0.0,70.0,0.0,August,Tuesday,18,Fuliza Loan
+THC22QDCMM,2025-08-12 18:21:32,OverDraft of Credit Party,70.0,0.0,70.0,August,Tuesday,18,Fuliza Loan
+THC8Z1YBJ8,2025-08-12 09:03:02,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******562 WILLIAM OTIENO,0.0,40.0,0.0,August,Tuesday,9,Pochi
+THC8Z1YBJ8,2025-08-12 09:03:02,OverDraft of Credit Party,40.0,0.0,40.0,August,Tuesday,9,Fuliza Loan
+THC6YVRHMA,2025-08-12 08:19:56,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******926 DANCUN WANYOIKE,0.0,80.0,0.0,August,Tuesday,8,Pochi
+THC6YVRHMA,2025-08-12 08:19:56,OverDraft of Credit Party,80.0,0.0,80.0,August,Tuesday,8,Fuliza Loan
+THB8Y1LFG6,2025-08-11 21:31:18,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,150.0,7.0,August,Monday,21,Send Money
+THB8Y1LFG6,2025-08-11 21:31:18,OverDraft of Credit Party,157.0,0.0,157.0,August,Monday,21,Fuliza Loan
+THB2XVMIQC,2025-08-11 20:57:55,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******618 GEOFFREY MWANGI,0.0,50.0,0.0,August,Monday,20,Pochi
+THB2XVMIQC,2025-08-11 20:57:55,OverDraft of Credit Party,50.0,0.0,50.0,August,Monday,20,Fuliza Loan
+THB9XP0UZL,2025-08-11 20:26:28,Customer Transfer Fuliza MPesa to - 2547******656 SYDNEY KIPRUTO,0.0,885.0,13.0,August,Monday,20,Send Money
+THB9XP0UZL,2025-08-11 20:26:28,OverDraft of Credit Party,138.0,0.0,898.0,August,Monday,20,Fuliza Loan
+THB9XOSV3F,2025-08-11 20:25:29,Savings Contribution,0.0,40.0,760.0,August,Monday,20,Other
+THB9XOSV3F,2025-08-11 20:25:29,Term Loan Disbursement for H- Fund,800.0,0.0,800.0,August,Monday,20,Other
+THB0WHR8Z6,2025-08-11 17:37:06,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******128 MAVINE MAJINJI,0.0,30.0,0.0,August,Monday,17,Pochi
+THB0WHR8Z6,2025-08-11 17:37:06,OverDraft of Credit Party,30.0,0.0,30.0,August,Monday,17,Fuliza Loan
+THB6TWNZVQ,2025-08-11 08:26:35,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******180 ELON WANJOHI,0.0,70.0,0.0,August,Monday,8,Pochi
+THB6TWNZVQ,2025-08-11 08:26:35,OverDraft of Credit Party,70.0,0.0,70.0,August,Monday,8,Fuliza Loan
+THB9TVPYUZ,2025-08-11 08:19:47,Customer Transfer Fuliza MPesa to - 2547******920 PETER MUNIU,0.0,50.0,0.0,August,Monday,8,Send Money
+THB9TVPYUZ,2025-08-11 08:19:47,OverDraft of Credit Party,17.48,0.0,50.0,August,Monday,8,Fuliza Loan
+THB8TVO62Q,2025-08-11 08:19:25,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 474a-4595-8680- 8c75701051ce946616.,1000.0,0.0,1000.0,August,Monday,8,Bank Transfer
+THB9TVO5CX,2025-08-11 08:19:25,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,967.48,32.52,August,Monday,8,Fuliza Loan Repayment
+THA0Q6E8BA,2025-08-10 12:40:12,Merchant Payment Fuliza M-Pesa to 5524978 - SAMOSA WORLD KENYA LTD 2,0.0,60.0,0.0,August,Sunday,12,Till No
+THA0Q6E8BA,2025-08-10 12:40:12,OverDraft of Credit Party,60.0,0.0,60.0,August,Sunday,12,Fuliza Loan
+THA5PUDQ5L,2025-08-10 11:19:44,Merchant Payment Fuliza M-Pesa to 7142788 - Naivas  Embakasi,0.0,60.0,0.0,August,Sunday,11,Till No
+THA5PUDQ5L,2025-08-10 11:19:44,OverDraft of Credit Party,60.0,0.0,60.0,August,Sunday,11,Fuliza Loan
+THA5PCV2TV,2025-08-10 09:16:37,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,74.0,0.0,August,Sunday,9,Fuliza Airtime
+THA5PCV2TV,2025-08-10 09:16:37,OverDraft of Credit Party,74.0,0.0,74.0,August,Sunday,9,Fuliza Loan
+TH94O77D8A,2025-08-09 21:19:11,Customer Transfer Fuliza MPesa to - 2547******771 FRANCIS MAINGI,0.0,20.0,0.0,August,Saturday,21,Send Money
+TH94O77D8A,2025-08-09 21:19:11,OverDraft of Credit Party,20.0,0.0,20.0,August,Saturday,21,Fuliza Loan
+TH93MSZNTL,2025-08-09 17:53:24,Merchant Payment Fuliza M-Pesa to 7254825 - BONFACE MACHARIA KIMEMIA 4,0.0,300.0,0.0,August,Saturday,17,Till No
+TH93MSZNTL,2025-08-09 17:53:24,OverDraft of Credit Party,300.0,0.0,300.0,August,Saturday,17,Fuliza Loan
+TH93MRUP9P,2025-08-09 17:48:13,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******148 josphine muriuki,0.0,100.0,0.0,August,Saturday,17,Pochi
+TH93MRUP9P,2025-08-09 17:48:13,OverDraft of Credit Party,100.0,0.0,100.0,August,Saturday,17,Fuliza Loan
+TH96LUX56G,2025-08-09 14:53:17,Customer Transfer Fuliza MPesa to - 2547******029 RAMADHAN MALALA,0.0,620.0,13.0,August,Saturday,14,Send Money
+TH96LUX56G,2025-08-09 14:53:17,OverDraft of Credit Party,343.9,0.0,633.0,August,Saturday,14,Fuliza Loan
+TH92LTMPFK,2025-08-09 14:45:57,Business Payment from 501901 - KCB 1 via API. Original conversation ID is MBNHL9JQDBDIMDOV.,800.0,0.0,800.0,August,Saturday,14,Bank Transfer
+TH91LTMZOF,2025-08-09 14:45:57,OD Loan Repayment to 232323 -,0.0,510.9,289.1,August,Saturday,14,Fuliza Loan Repayment
+TH99LI4J61,2025-08-09 13:40:58,Customer Send Money to Micro,0.0,70.0,0.0,August,Saturday,13,Pochi
+TH99LI4J61,2025-08-09 13:40:58,OverDraft of Credit Party,70.0,0.0,70.0,August,Saturday,13,Fuliza Loan
+TH92LH39IO,2025-08-09 13:35:12,Customer Send Money to Micro,0.0,50.0,0.0,August,Saturday,13,Pochi
+TH92LH39IO,2025-08-09 13:35:12,OverDraft of Credit Party,50.0,0.0,50.0,August,Saturday,13,Fuliza Loan
+TH90L8Z858,2025-08-09 12:48:29,Customer Send Money to Micro,0.0,60.0,0.0,August,Saturday,12,Pochi
+TH90L8Z858,2025-08-09 12:48:29,OverDraft of Credit Party,60.0,0.0,60.0,August,Saturday,12,Fuliza Loan
+TH86J96VNI,2025-08-08 21:51:59,Merchant Payment Fuliza M-Pesa,0.0,200.0,0.0,August,Friday,21,Till No
+TH86J96VNI,2025-08-08 21:51:59,OverDraft of Credit Party,200.0,0.0,200.0,August,Friday,21,Fuliza Loan
+TH84J892RY,2025-08-08 21:45:45,Recharge for Customer With,0.0,20.0,0.0,August,Friday,21,safaricom bundles
+TH84J892RY,2025-08-08 21:45:45,OverDraft of Credit Party,20.0,0.0,20.0,August,Friday,21,Fuliza Loan
+TH85J4UL5L,2025-08-08 21:25:14,Customer Send Money to Micro,0.0,50.0,0.0,August,Friday,21,Pochi
+TH85J4UL5L,2025-08-08 21:25:14,OverDraft of Credit Party,50.0,0.0,50.0,August,Friday,21,Fuliza Loan
+TH82IWLN7Q,2025-08-08 20:43:25,Customer Transfer of Funds,0.0,23.0,0.0,August,Friday,20,Other
+TH82IWLN7Q,2025-08-08 20:43:25,Customer Transfer Fuliza MPesa,0.0,1040.0,23.0,August,Friday,20,Send Money
+TH82IWLN7Q,2025-08-08 20:43:25,OverDraft of Credit Party,55.84,0.0,1063.0,August,Friday,20,Fuliza Loan
+TH82IK1JB8,2025-08-08 19:51:00,Recharge for Customer to,0.0,20.0,1007.16,August,Friday,19,safaricom bundles
+TH87HTWW3J,2025-08-08 18:16:22,Recharge for Customer to,0.0,20.0,1027.16,August,Friday,18,safaricom bundles
+TH81HQM99X,2025-08-08 18:03:06,Customer Transfer to -,0.0,100.0,1047.16,August,Friday,18,Send Money
+TH80HJHED0,2025-08-08 17:32:52,Customer Payment to Small,0.0,30.0,1147.16,August,Friday,17,Other
+TH84HDVTCW,2025-08-08 17:07:30,Recharge for Customer to,0.0,108.0,1177.16,August,Friday,17,safaricom bundles
+TH84H185P8,2025-08-08 16:03:16,Merchant Payment Online to,0.0,100.0,1285.16,August,Friday,16,Till No
+TH84H15BA0,2025-08-08 16:02:51,OD Loan Repayment to 232323 -,0.0,114.84,1385.16,August,Friday,16,Fuliza Loan Repayment
+TH83H159T7,2025-08-08 16:02:50,Business Payment from 939743 -,1500.0,0.0,1500.0,August,Friday,16,Bank Transfer
+TH86ETQOP8,2025-08-08 08:23:59,Customer Send Money to Micro,0.0,40.0,0.0,August,Friday,8,Pochi
+TH86ETQOP8,2025-08-08 08:23:59,OverDraft of Credit Party,40.0,0.0,40.0,August,Friday,8,Fuliza Loan
+TH82EPWMOU,2025-08-08 07:56:12,Customer Send Money to Micro,0.0,80.0,0.0,August,Friday,7,Pochi
+TH82EPWMOU,2025-08-08 07:56:12,OverDraft of Credit Party,73.7,0.0,80.0,August,Friday,7,Fuliza Loan
+TH88EO533E,2025-08-08 07:42:15,Customer Payment to Small,0.0,20.0,6.3,August,Friday,7,Other
+TH79D1M7C9,2025-08-07 19:22:36,Customer Transfer of Funds,0.0,7.0,26.3,August,Thursday,19,Other
+TH79D1M7C9,2025-08-07 19:22:36,Customer Transfer to -,0.0,245.0,33.3,August,Thursday,19,Send Money
+TH71BF7REH,2025-08-07 14:49:52,Customer Payment to Small,0.0,70.0,278.3,August,Thursday,14,Other
+TH74B6RH94,2025-08-07 14:01:10,Customer Payment to Small,0.0,30.0,348.3,August,Thursday,14,Other
+TH75AE9Z75,2025-08-07 11:13:48,Customer Transfer to - 2547******771 Ruth mochama,0.0,15000.0,478.3,August,Thursday,11,Send Money
+TH72A0CKZU,2025-08-07 09:46:50,Funds received from Business 4029029 - SANLAM UNIT TRUST,15000.0,0.0,15478.3,August,Thursday,9,Received Money
+TH759V36ID,2025-08-07 09:12:37,Customer Transfer to - 07******572 John Njoroge,0.0,40.0,478.3,August,Thursday,9,Send Money
+TH789NYPMK,2025-08-07 08:24:48,Customer Payment to Small Business to - 07******010 David Abuya,0.0,70.0,518.3,August,Thursday,8,Pochi
+TH64861PGI,2025-08-06 19:58:00,Pay Bill to 888880 - KPLC PREPAID Acc. 92105949876,0.0,250.0,593.3,August,Wednesday,19,Pay Bill
+TH6178FEDJ,2025-08-06 17:53:57,Customer Transfer to - 07******291 RECKNALD AGADE,0.0,80.0,843.3,August,Wednesday,17,Send Money
+TH6878CI4O,2025-08-06 17:53:36,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,976.7,923.3,August,Wednesday,17,Fuliza Loan Repayment
+TH6978CF4D,2025-08-06 17:53:35,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is a72c-4cc4-aec2- f011fadc71e7130565.,1900.0,0.0,1900.0,August,Wednesday,17,Bank Transfer
+TH604OGNH6,2025-08-06 09:05:49,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******714 NIKODEMUS KALELA,0.0,40.0,0.0,August,Wednesday,9,Pochi
+TH604OGNH6,2025-08-06 09:05:49,OverDraft of Credit Party,40.0,0.0,40.0,August,Wednesday,9,Fuliza Loan
+TH664IHH7S,2025-08-06 08:26:13,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******103 DAVID MUASYA,0.0,70.0,0.0,August,Wednesday,8,Pochi
+TH664IHH7S,2025-08-06 08:26:13,OverDraft of Credit Party,70.0,0.0,70.0,August,Wednesday,8,Fuliza Loan
+TH592NY8I9,2025-08-05 19:17:56,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,80.0,0.0,August,Tuesday,19,Send Money
+TH592NY8I9,2025-08-05 19:17:56,OverDraft of Credit Party,80.0,0.0,80.0,August,Tuesday,19,Fuliza Loan
+TH572F0FUP,2025-08-05 18:46:26,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******225 JAMES NDONO,0.0,80.0,0.0,August,Tuesday,18,Pochi
+TH572F0FUP,2025-08-05 18:46:26,OverDraft of Credit Party,80.0,0.0,80.0,August,Tuesday,18,Fuliza Loan
+TH512DZD9T,2025-08-05 18:42:34,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,280.0,0.0,August,Tuesday,18,Fuliza Loan Repayment
+TH512DZAJ7,2025-08-05 18:42:33,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is d451-4b6d-a73d- 158c2a40c97e183961.,280.0,0.0,280.0,August,Tuesday,18,Bank Transfer
+TH50Y94RLK,2025-08-05 08:03:28,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******377 Ezekiel Agoro,0.0,30.0,0.0,August,Tuesday,8,Pochi
+TH50Y94RLK,2025-08-05 08:03:28,OverDraft of Credit Party,30.0,0.0,30.0,August,Tuesday,8,Fuliza Loan
+TH59Y4O84P,2025-08-05 07:25:38,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******126 JOB JOROM,0.0,80.0,0.0,August,Tuesday,7,Pochi
+TH59Y4O84P,2025-08-05 07:25:38,OverDraft of Credit Party,80.0,0.0,80.0,August,Tuesday,7,Fuliza Loan
+TH42VZVLBI,2025-08-04 18:05:52,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,0.0,August,Monday,18,Fuliza Airtime
+TH42VZVLBI,2025-08-04 18:05:52,OverDraft of Credit Party,20.0,0.0,20.0,August,Monday,18,Fuliza Loan
+TH42TJQ9ZY,2025-08-04 09:48:36,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******634 CHARLES KINUTHIA,0.0,20.0,0.0,August,Monday,9,Pochi
+TH42TJQ9ZY,2025-08-04 09:48:36,OverDraft of Credit Party,20.0,0.0,20.0,August,Monday,9,Fuliza Loan
+TH43TH7EXX,2025-08-04 09:32:06,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******682 SAMWEL KANGETHE,0.0,50.0,0.0,August,Monday,9,Pochi
+TH43TH7EXX,2025-08-04 09:32:06,OverDraft of Credit Party,50.0,0.0,50.0,August,Monday,9,Fuliza Loan
+TH34SGGYHI,2025-08-03 22:03:14,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,174.0,0.0,August,Sunday,22,Fuliza Airtime
+TH34SGGYHI,2025-08-03 22:03:14,OverDraft of Credit Party,174.0,0.0,174.0,August,Sunday,22,Fuliza Loan
+TH33RD372L,2025-08-03 18:56:47,Merchant Payment Fuliza M-Pesa to 7297259 - ASAPH SHOP,0.0,120.0,0.0,August,Sunday,18,Till No
+TH33RD372L,2025-08-03 18:56:47,OverDraft of Credit Party,120.0,0.0,120.0,August,Sunday,18,Fuliza Loan
+TH32Q4P7QY,2025-08-03 15:03:55,Merchant Payment Fuliza M-Pesa to 7179409 - GEORGE ODHIAMBO OGWA 2,0.0,150.0,0.0,August,Sunday,15,Till No
+TH32Q4P7QY,2025-08-03 15:03:55,OverDraft of Credit Party,150.0,0.0,150.0,August,Sunday,15,Fuliza Loan
+TH34Q23YXQ,2025-08-03 14:48:54,Merchant Payment Fuliza M-Pesa to 6190984 -      BRAYNAL CHEMIST 2,0.0,100.0,0.0,August,Sunday,14,Till No
+TH34Q23YXQ,2025-08-03 14:48:54,OverDraft of Credit Party,100.0,0.0,100.0,August,Sunday,14,Fuliza Loan
+TH36PM4G7W,2025-08-03 13:13:14,Merchant Payment Fuliza M-Pesa Online to 9355392 - BONFACE MACHARIA KIMEMIA,0.0,300.0,0.0,August,Sunday,13,Till No
+TH36PM4G7W,2025-08-03 13:13:14,OverDraft of Credit Party,230.25,0.0,300.0,August,Sunday,13,Fuliza Loan
+TH36OJ1A7A,2025-08-03 08:45:54,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,86.0,69.75,August,Sunday,8,safaricom bundles
+TH27NHK3C7,2025-08-02 21:23:03,Merchant Payment to 6428455 - THOMAS MUHIA MWANGI-1,0.0,40.0,155.75,August,Saturday,21,Till No
+TH29N6FVZT,2025-08-02 20:31:40,Customer Transfer to - 07******575 NAIF RASHID,0.0,570.0,208.75,August,Saturday,20,Send Money
+TH22MZK9GK,2025-08-02 20:04:58,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,221.25,778.75,August,Saturday,20,Fuliza Loan Repayment
+TH23MZKJ4N,2025-08-02 20:04:57,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 94d8-44b5-b1bb- ba4a2fcda746502648.,1000.0,0.0,1000.0,August,Saturday,20,Bank Transfer
+TH22JM8DBE,2025-08-02 09:50:24,Pay Bill Online Fuliza M-Pesa to 150501 - SAFARICOMHOME Acc. 11575021,0.0,2998.0,0.0,August,Saturday,9,Pay Bill
+TH22JM8DBE,2025-08-02 09:50:24,OverDraft of Credit Party,219.05,0.0,2998.0,August,Saturday,9,Fuliza Loan
+TH29JM1IFT,2025-08-02 09:49:11,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,221.05,2778.95,August,Saturday,9,Fuliza Loan Repayment
+TH23JM1EQ1,2025-08-02 09:49:11,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 946b-4573-b5c9- 22f02a38247e1216338.,3000.0,0.0,3000.0,August,Saturday,9,Bank Transfer
+TH15G1I9GF,2025-08-01 15:50:12,Merchant Payment Fuliza M-Pesa Online to 5104612 - CATHRINE MOGESI WAMBURA,0.0,90.0,0.0,August,Friday,15,Till No
+TH15G1I9GF,2025-08-01 15:50:12,OverDraft of Credit Party,90.0,0.0,90.0,August,Friday,15,Fuliza Loan
+TH12G07KZ4,2025-08-01 15:42:59,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,86.0,0.0,August,Friday,15,Fuliza Airtime
+TH12G07KZ4,2025-08-01 15:42:59,OverDraft of Credit Party,86.0,0.0,86.0,August,Friday,15,Fuliza Loan
+TH12FLZK0Q,2025-08-01 14:23:09,Pay Bill Online Fuliza M-Pesa to 888880 - KPLC PREPAID Acc. 92105949876,0.0,300.0,5.0,August,Friday,14,Pay Bill
+TH12FLZK0Q,2025-08-01 14:23:09,OverDraft of Credit Party,42.86,0.0,305.0,August,Friday,14,Fuliza Loan
+TH12FL4692,2025-08-01 14:18:16,Merchant Payment to 5195666 - COONECTIVERSE INVESTMENTS,0.0,10.0,262.14,August,Friday,14,Till No
+TH17FAWPSH,2025-08-01 13:22:10,Merchant Payment Online to 7069014 - GATEWAY    CYBER CAFE,0.0,60.0,272.14,August,Friday,13,Till No
+TGV0C0D93I,2025-07-31 19:08:54,Merchant Payment Online to 5104612 - CATHRINE MOGESI WAMBURA,0.0,80.0,332.14,July,Thursday,19,Till No
+TGV8BP0JEO,2025-07-31 18:26:27,Customer Payment to Small Business to - 2547******590 RICHARD NYAATA,0.0,100.0,412.14,July,Thursday,18,Pochi
+TGV2BADUUI,2025-07-31 17:22:03,Merchant Payment to 3538385 - TOMACO COFFEE KENYA LTD,0.0,100.0,512.14,July,Thursday,17,Till No
+TGV78O7Q3J,2025-07-31 07:54:39,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,64.0,612.14,July,Thursday,7,safaricom bundles
+TGU66YVGO0,2025-07-30 19:17:59,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,123.86,676.14,July,Wednesday,19,Fuliza Loan Repayment
+TGU06YVHES,2025-07-30 19:17:58,Funds received from - 07******837 lewis murgor,800.0,0.0,800.0,July,Wednesday,19,Received Money
+TGU443459O,2025-07-30 09:50:16,Pay Bill Online Fuliza M-Pesa to 222222 - E-CITIZEN Acc. EWFVIQU,0.0,1050.0,15.0,July,Wednesday,9,Pay Bill
+TGU443459O,2025-07-30 09:50:16,OverDraft of Credit Party,122.63,0.0,1065.0,July,Wednesday,9,Fuliza Loan
+TGU9431JIT,2025-07-30 09:49:44,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,57.63,942.37,July,Wednesday,9,Fuliza Loan Repayment
+TGU9431I0X,2025-07-30 09:49:43,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 77c1-4ebe-8828- 1e88fdf075131487728.,1000.0,0.0,1000.0,July,Wednesday,9,Bank Transfer
+TGT023VZ4A,2025-07-29 19:29:39,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,262.0,0.0,July,Tuesday,19,Fuliza Airtime
+TGT023VZ4A,2025-07-29 19:29:39,OverDraft of Credit Party,57.05,0.0,262.0,July,Tuesday,19,Fuliza Loan
+TGT8Z54GQC,2025-07-29 13:26:44,Funds received from - 07******837 lewis murgor,1000.0,0.0,1000.0,July,Tuesday,13,Received Money
+TGT4Z5479O,2025-07-29 13:26:44,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,795.05,204.95,July,Tuesday,13,Fuliza Loan Repayment
+TGS8U382Q4,2025-07-28 12:39:47,Pay Bill Online Fuliza M-Pesa to 880100 - NCBA BANK KENYA PLC. Acc. PAYQNT#B306,0.0,11500.0,57.0,July,Monday,12,Pay Bill
+TGS8U382Q4,2025-07-28 12:39:47,OverDraft of Credit Party,787.17,0.0,11557.0,July,Monday,12,Fuliza Loan
+TGS0TWZTB4,2025-07-28 12:00:21,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 81d0-48f2-abf7- ea6b71dafe7e10767.,11500.0,0.0,11500.0,July,Monday,12,Bank Transfer
+TGS8TWZXPO,2025-07-28 12:00:21,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,730.17,10769.83,July,Monday,12,Fuliza Loan Repayment
+TGS7TN7YXB,2025-07-28 10:58:21,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,86.0,0.0,July,Monday,10,Fuliza Airtime
+TGS7TN7YXB,2025-07-28 10:58:21,OverDraft of Credit Party,86.0,0.0,86.0,July,Monday,10,Fuliza Loan
+TGS8TIJK1Q,2025-07-28 10:28:34,Pay Bill Online Fuliza M-Pesa to 222222 - E-CITIZEN Acc. XEHGTYP,0.0,10650.0,57.0,July,Monday,10,Pay Bill
+TGS8TIJK1Q,2025-07-28 10:28:34,OverDraft of Credit Party,636.94,0.0,10707.0,July,Monday,10,Fuliza Loan
+TGS3TIHPZJ,2025-07-28 10:28:15,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,929.94,10070.06,July,Monday,10,Fuliza Loan Repayment
+TGS2TIHS50,2025-07-28 10:28:15,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is 1379-44d1-aa23- 8bc01025858125701.,11000.0,0.0,11000.0,July,Monday,10,Bank Transfer
+TGR7S2WOKV,2025-07-27 21:12:08,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,72.0,0.0,July,Sunday,21,Fuliza Airtime
+TGR7S2WOKV,2025-07-27 21:12:08,OverDraft of Credit Party,72.0,0.0,72.0,July,Sunday,21,Fuliza Loan
+TGR6QE32H4,2025-07-27 16:21:53,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,42.0,0.0,July,Sunday,16,Fuliza Airtime
+TGR6QE32H4,2025-07-27 16:21:53,OverDraft of Credit Party,42.0,0.0,42.0,July,Sunday,16,Fuliza Loan
+TGR1OUJOYZ,2025-07-27 10:10:04,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,144.0,0.0,July,Sunday,10,Fuliza Airtime
+TGR1OUJOYZ,2025-07-27 10:10:04,OverDraft of Credit Party,144.0,0.0,144.0,July,Sunday,10,Fuliza Loan
+TGQ0NDSM0Y,2025-07-26 20:53:36,Pay Bill Online Fuliza M-Pesa to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,13500.0,0.0,July,Saturday,20,Pay Bill
+TGQ0NDSM0Y,2025-07-26 20:53:36,OverDraft of Credit Party,662.73,0.0,13500.0,July,Saturday,20,Fuliza Loan
+TGQ6NDI9XU,2025-07-26 20:52:14,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,662.73,12837.27,July,Saturday,20,Fuliza Loan Repayment
+TGQ0NDI96Q,2025-07-26 20:52:14,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is ab0f-4973-a091- e4cac8c746fe234460.,13500.0,0.0,13500.0,July,Saturday,20,Bank Transfer
+TGQ1N4G1XT,2025-07-26 20:13:29,Customer Transfer Fuliza MPesa to - 2547******482 amon kurgat,0.0,300.0,7.0,July,Saturday,20,Send Money
+TGQ1N4G1XT,2025-07-26 20:13:29,OverDraft of Credit Party,307.0,0.0,307.0,July,Saturday,20,Fuliza Loan
+TGQ9LXAWDZ,2025-07-26 17:19:25,Recharge for Customer With Fuliza to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,122.0,0.0,July,Saturday,17,Fuliza Airtime
+TGQ9LXAWDZ,2025-07-26 17:19:25,OverDraft of Credit Party,122.0,0.0,122.0,July,Saturday,17,Fuliza Loan
+TGQ2K1DKZI,2025-07-26 10:27:56,Pay Bill Online Fuliza M-Pesa to 4019695 - SAN BURNERS CAFE LIMITED 2              Acc. s,0.0,250.0,5.0,July,Saturday,10,Pay Bill
+TGQ2K1DKZI,2025-07-26 10:27:56,OverDraft of Credit Party,227.16,0.0,255.0,July,Saturday,10,Fuliza Loan
+TGQ7JXOBBT,2025-07-26 10:03:26,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,138.0,27.84,July,Saturday,10,safaricom bundles
+TGQ8JUQQWA,2025-07-26 09:43:35,Customer Payment to Small Business to - 2547******027 DAVID NJENGA,0.0,50.0,165.84,July,Saturday,9,Pochi
+TGQ5JRIOY3,2025-07-26 09:21:10,Customer Transfer to - 07******833 alice muturi,0.0,400.0,222.84,July,Saturday,9,Send Money
+TGQ6JQQXD4,2025-07-26 09:15:41,Customer Transfer to - 2547******702 BETTY MAINGI,0.0,15100.0,727.84,July,Saturday,9,Send Money
+TGP9IXO5G3,2025-07-25 23:11:44,Customer Transfer to - 07******837 lewis murgor,0.0,1000.0,15840.84,July,Friday,23,Send Money
+TGP1IJB50N,2025-07-25 21:16:51,Pay Bill Online to 979988 - ZENKA DIGITAL LIMITED C2B Acc. L88384497,0.0,348.0,16845.84,July,Friday,21,Pay Bill
+TGP8HY0URA,2025-07-25 19:44:34,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,806.16,17193.84,July,Friday,19,Fuliza Loan Repayment
+TGP3HY0SJZ,2025-07-25 19:44:33,Business Payment from 939743 - WorkPay Africa Limited B2C via API. Original conversation ID is d8e0-436c-bc34- d0bb8c14b16b316204.,18000.0,0.0,18000.0,July,Friday,19,Bank Transfer
+TGP0HWYWP0,2025-07-25 19:40:55,Merchant Payment Fuliza M-Pesa to 5104612 - CATHRINE MOGESI WAMBURA,0.0,220.0,0.0,July,Friday,19,Till No
+TGP0HWYWP0,2025-07-25 19:40:55,OverDraft of Credit Party,220.0,0.0,220.0,July,Friday,19,Fuliza Loan
+TGP3HWTSVB,2025-07-25 19:40:29,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,100.0,0.0,July,Friday,19,Fuliza Loan Repayment
+TGP1HWTWHJ,2025-07-25 19:40:24,Funds received from - 07******837 lewis murgor,100.0,0.0,100.0,July,Friday,19,Received Money
+TGP6HWL7MC,2025-07-25 19:39:36,Merchant Payment Fuliza M-Pesa to 5104612 - CATHRINE MOGESI WAMBURA,0.0,70.0,0.0,July,Friday,19,Till No
+TGP6HWL7MC,2025-07-25 19:39:36,OverDraft of Credit Party,70.0,0.0,70.0,July,Friday,19,Fuliza Loan
+TGP6HJJNBC,2025-07-25 18:53:59,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******364 JOEL MWENDE,0.0,60.0,0.0,July,Friday,18,Pochi
+TGP6HJJNBC,2025-07-25 18:53:59,OverDraft of Credit Party,60.0,0.0,60.0,July,Friday,18,Fuliza Loan
+TGP9HHUTDD,2025-07-25 18:47:33,Business Payment from 501901 - KCB 1 via API. Original conversation ID is CGP1B37WDF.,400.0,0.0,400.0,July,Friday,18,Bank Transfer
+TGP5HHV02D,2025-07-25 18:47:33,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,400.0,0.0,July,Friday,18,Fuliza Loan Repayment
+TGP1EII7N1,2025-07-25 08:05:25,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******027 DAVID NJENGA,0.0,80.0,0.0,July,Friday,8,Pochi
+TGP1EII7N1,2025-07-25 08:05:25,OverDraft of Credit Party,80.0,0.0,80.0,July,Friday,8,Fuliza Loan
+TGO8CMVVRA,2025-07-24 18:58:13,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,July,Thursday,18,Send Money
+TGO8CMVVRA,2025-07-24 18:58:13,OverDraft of Credit Party,65.0,0.0,65.0,July,Thursday,18,Fuliza Loan
+TGO4CJ7TTS,2025-07-24 18:44:11,Merchant Payment Fuliza M-Pesa to 5104612 - CATHRINE MOGESI WAMBURA,0.0,100.0,0.0,July,Thursday,18,Till No
+TGO4CJ7TTS,2025-07-24 18:44:11,OverDraft of Credit Party,100.0,0.0,100.0,July,Thursday,18,Fuliza Loan
+TGO0CE5298,2025-07-24 18:23:21,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******271 CLINTON ALARA,0.0,80.0,0.0,July,Thursday,18,Pochi
+TGO0CE5298,2025-07-24 18:23:21,OverDraft of Credit Party,80.0,0.0,80.0,July,Thursday,18,Fuliza Loan
+TGO59TD64T,2025-07-24 08:39:59,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******110 DOMINIC KARATHE,0.0,60.0,0.0,July,Thursday,8,Pochi
+TGO59TD64T,2025-07-24 08:39:59,OverDraft of Credit Party,60.0,0.0,60.0,July,Thursday,8,Fuliza Loan
+TGN87Y6FCO,2025-07-23 19:02:05,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 2547******273 HANNAH MURIU,0.0,100.0,0.0,July,Wednesday,19,Pochi
+TGN87Y6FCO,2025-07-23 19:02:05,OverDraft of Credit Party,100.0,0.0,100.0,July,Wednesday,19,Fuliza Loan
+TGN47QRHOI,2025-07-23 18:33:07,Customer Send Money to Micro SME Business  with Fuliza MPesa to - 07******762 Reagan Otieno,0.0,30.0,0.0,July,Wednesday,18,Pochi
+TGN47QRHOI,2025-07-23 18:33:07,OverDraft of Credit Party,30.0,0.0,30.0,July,Wednesday,18,Fuliza Loan
+TGN15QV9WD,2025-07-23 11:26:06,Funds received from - 2547******692 PETER NDALE,440.0,0.0,440.0,July,Wednesday,11,Received Money
+TGN85QV9WU,2025-07-23 11:26:06,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,440.0,0.0,July,Wednesday,11,Fuliza Loan Repayment
+TGN95BL1VF,2025-07-23 09:39:54,Customer Transfer Fuliza MPesa to - 2547******804 ERIC RWAGI,0.0,300.0,7.0,July,Wednesday,9,Send Money
+TGN95BL1VF,2025-07-23 09:39:54,OverDraft of Credit Party,307.0,0.0,307.0,July,Wednesday,9,Fuliza Loan
+TGN050NHU0,2025-07-23 08:18:22,Pay Bill Fuliza M-Pesa to 888880 - KPLC PREPAID Acc. 92105949876,0.0,309.0,5.0,July,Wednesday,8,Fuliza Loan
+TGN050NHU0,2025-07-23 08:18:22,OverDraft of Credit Party,314.0,0.0,314.0,July,Wednesday,8,Fuliza Loan
+TGM84IYLVU,2025-07-22 23:38:53,Merchant Payment Fuliza M-Pesa to 8543532 - HALISI CHICKEN WORLD,0.0,400.0,0.0,July,Tuesday,23,Till No
+TGM84IYLVU,2025-07-22 23:38:53,OverDraft of Credit Party,242.87,0.0,400.0,July,Tuesday,23,Fuliza Loan
+TGM74IWII7,2025-07-22 23:37:28,OD Loan Repayment to 232323 - M-PESA Overdraw,0.0,42.87,157.13,July,Tuesday,23,Fuliza Loan Repayment
+TGM34IWII3,2025-07-22 23:37:27,Funds received from - 07******837 lewis murgor,200.0,0.0,200.0,July,Tuesday,23,Received Money
+TGM12SGJCJ,2025-07-22 17:52:14,Customer Transfer Fuliza MPesa to - 2547******007 SARAH SEIF,0.0,65.0,0.0,July,Tuesday,17,Send Money
+TGM12SGJCJ,2025-07-22 17:52:14,OverDraft of Credit Party,42.44,0.0,65.0,July,Tuesday,17,Fuliza Loan
+TGM42M3UZC,2025-07-22 17:22:12,Customer Transfer to - 2547******017 DAVID MWANGI,0.0,80.0,22.56,July,Tuesday,17,Send Money
+TGM8ZZ2KFG,2025-07-22 11:18:49,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,20.0,102.56,July,Tuesday,11,safaricom bundles
+TGM3ZTCK9N,2025-07-22 10:39:24,Pay Bill Online to 888111 - SANLAM  UNIT TRUST Acc. 00001-001-20348-001-1,0.0,2500.0,122.56,July,Tuesday,10,Pay Bill
+TGM4Z6K1WU,2025-07-22 07:49:53,Customer Transfer to - 2547******469 JOHN IRUNGU,0.0,280.0,2629.56,July,Tuesday,7,Send Money
+TGL1XFVTTT,2025-07-21 18:56:47,Customer Transfer to - 2547******007 SARAH SEIF,0.0,65.0,2909.56,July,Monday,18,Send Money
+TGL3WN67S7,2025-07-21 16:41:19,Customer Transfer to - 2547******707 ENOCK BETT,0.0,4000.0,3031.56,July,Monday,16,Send Money
+TGL2UYAK5S,2025-07-21 10:04:15,Customer Transfer to - 2547******004 REUBEN KIMANI,0.0,300.0,7038.56,July,Monday,10,Send Money
+TGL2U4WQ6Y,2025-07-21 03:11:43,Recharge for Customer to 4093441SAFARICOM DATA BUNDLES by - 2547******607 DANIEL KORIR,0.0,118.0,7338.56,July,Monday,3,safaricom bundles
+TGK7SKK9UP,2025-07-20 18:25:54,Customer Transfer to - 2547******410 ANTHONY THOMAS,0.0,150.0,7463.56,July,Sunday,18,Send Money
+TGJ9O0L3Q5,2025-07-19 18:39:01,Merchant Payment to 5104612 - CATHRINE MOGESI WAMBURA,0.0,70.0,7613.56,July,Saturday,18,Till No
+TGJ0N0A5NY,2025-07-19 15:30:12,Customer Transfer to - 2547******573 NOAH MAYIBENI,0.0,250.0,7690.56,July,Saturday,15,Send Money
+TGJ4MADXGU,2025-07-19 12:51:52,Customer Transfer to - 07******156 LEE SANGOROH,0.0,1450.0,7963.56,July,Saturday,12,Send Money
+TGJ3M8RJYN,2025-07-19 12:41:30,Merchant Payment Online to 7914490 - Artcaffe Coffee And Bakery Ltd - Westlands Square,0.0,900.0,9413.56,July,Saturday,12,Till No
