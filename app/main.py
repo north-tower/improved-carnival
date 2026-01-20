@@ -9,7 +9,11 @@ from .routers.lifestyle import router as lifestyle
 from .routers.utility import router as utility
 from .routers.credit_score import router as credit_score
 from fastapi.middleware.cors import CORSMiddleware
+from auth.routers.auth import router as auth_router
+from auth.database import engine, Base
 
+# Create DB tables for authentication
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
@@ -28,6 +32,7 @@ app.include_router(lifestyle)
 app.include_router(utility)
 app.include_router(transactions)
 app.include_router(credit_score)
+app.include_router(auth_router)
 
 class Item(BaseModel):
     name: str
