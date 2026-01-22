@@ -7,8 +7,9 @@ from auth.models import User as UserModel
 from auth.schemas import User as UserSchema, UserCreate
 from auth.database import get_db
 import bcrypt
+import os
 
-SECRET_KEY = "mysecretkey"  # In production, use environment variable!
+SECRET_KEY = os.getenv("SECRET_KEY", "mysecretkey")  # Use environment variable in production!
 EXPIRE_MINUTES = 60 * 24 
 ALGORITHM = "HS256"
 

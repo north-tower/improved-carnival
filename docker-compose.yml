@@ -16,6 +16,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
       - DATABASE_URL=sqlite:///./data/sql.db
+      - SECRET_KEY=${SECRET_KEY:-mysecretkey}
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/"]

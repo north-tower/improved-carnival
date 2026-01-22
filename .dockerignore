@@ -4,40 +4,84 @@ __pycache__/
 *$py.class
 *.so
 .Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 venv/
 env/
 ENV/
-.venv
+env.bak/
+venv.bak/
+.venv/
 
-# IDE
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
-Thumbs.db
 
-# Project specific
-*.pdf
-*.csv
-output/
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Database (will be created in container)
 *.db
 *.sqlite
 *.sqlite3
+sql.db
+*.db-journal
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PDF files
+*.pdf
+
+# CSV files
+*.csv
+
+# Output and data (will be mounted as volumes)
+output/
+data/
 
 # Git
-.git/
+.git
 .gitignore
 
-# Documentation
-README.md
-*.md
-
 # Docker
-Dockerfile
-docker-compose.yml
+Dockerfile*
+docker-compose*.yml
 .dockerignore
 
+# Documentation
+*.md
+!README.md
+!DEPLOYMENT.md
+
+# CI/CD
+.github
